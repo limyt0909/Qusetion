@@ -1,0 +1,23 @@
+/* 자동으로 고유해질 것이므로 흔히 사용되는 단어를 클래스 이름대로 사용가능 */
+
+.up {
+  background: rgb(2, 17, 27);
+  padding: 1rem;
+  color: white;
+  font-size: 1rem;
+}
+
+.down {
+  background: rgb(232, 230, 238);
+  padding: 1rem;
+  color: rgb(8, 5, 5);
+  font-size: 1rem;
+  text-align: center;
+}
+
+/* 글로벌 CSS 를 작성하고 싶다면 */
+
+:global .something {
+  font-weight: 800;
+  color: aqua;
+}
