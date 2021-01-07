@@ -11,13 +11,12 @@ import Slideshow from '../Slideshow/Slideshow';
 const Home = () => {
     return (
         <div>
+            
 <Top />
-<div class ="container">
 <Slideshow />
 <GroupCard />
-</div>
 <Bottom />
-        </div>
+</div>
     );
 };
 

@@ -16,6 +16,22 @@
   text-align: center;
 }
 
+.bottom {
+  padding: 2rem;
+  margin: 1rem;
+  color: rgb(1, 18, 20);
+  font-size: 3rem;
+  text-align: left;
+}
+
+.map {
+  color: #48afdb;
+  font-size: 2rem;
+}
+.maptext {
+  color: #757575;
+}
+
 /* 글로벌 CSS 를 작성하고 싶다면 */
 
 :global .something {
