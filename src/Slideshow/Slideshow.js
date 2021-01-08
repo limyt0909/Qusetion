@@ -1,9 +1,9 @@
 import React from 'react';
 import Carousel from 'react-bootstrap/Carousel';
 
-import slide1 from '../images/aone11.png';
-import slide2 from '../images/aone22.png';
-import slide3 from '../images/aone33.png';
+import slide1 from '../images/aone1.png';
+import slide2 from '../images/aone2.png';
+import slide3 from '../images/aone3.png';
 
 const Slideshow = () => {
   return (

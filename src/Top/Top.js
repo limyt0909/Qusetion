@@ -43,12 +43,13 @@ const Top = () => {
       <br />
 
       <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
-        <div class="container">
-          <Navbar.Brand href="/">
-            <img src={Img2} alt="whitemark2" />
-          </Navbar.Brand>
+        <Navbar.Brand href="/">
+          　 　
+          <img src={Img2} alt="whitemark2" />
+        </Navbar.Brand>
 
-          <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+        <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+        <div class="container">
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="mr-auto">
               <NavDropdown title="About-A-ONE" id="collasible-nav-dropdown">
@@ -71,7 +72,7 @@ const Top = () => {
                   오시는길
                 </NavDropdown.Item>
               </NavDropdown>
-
+              　　
               <NavDropdown
                 title="Customs Clearance & Drawback"
                 id="collasible-nav-dropdown"
@@ -93,7 +94,7 @@ const Top = () => {
                 </NavDropdown.Item>
                 <NavDropdown.Divider />
                 <NavDropdown.Item href="/CustomAone7">
-                  무역거래컨설팅
+                  무역거래 컨설팅
                 </NavDropdown.Item>
                 <NavDropdown.Item href="/CustomAone8">
                   물류 컨설팅
@@ -102,7 +103,7 @@ const Top = () => {
                   고객지원
                 </NavDropdown.Item>
               </NavDropdown>
-
+              　　
               <NavDropdown title="Consultation" id="collasible-nav-dropdown">
                 <NavDropdown.Item href="/Consultation">
                   심사 대리
@@ -127,7 +128,7 @@ const Top = () => {
                   지적재산권
                 </NavDropdown.Item>
               </NavDropdown>
-
+              　　
               <NavDropdown
                 title="Education & Network"
                 id="collasible-nav-dropdown"
@@ -147,7 +148,7 @@ const Top = () => {
                   글로벌 네트워크
                 </NavDropdown.Item>
               </NavDropdown>
-
+              　　
               <NavDropdown title="Resources" id="collasible-nav-dropdown">
                 <NavDropdown.Item href="/Resources">
                   관세무역 뉴스

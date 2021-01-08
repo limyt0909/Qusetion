@@ -4,11 +4,11 @@ import Bottom from '../Bottom/Bottom';
 
 import styles from './Aboutaone.module.css';
 
-const Resources5 = () => {
+const inquiry = () => {
   return (
     <div>
       <Top />
-      <div className={styles.down}>정운기 칼럼 </div>
+      <div className={styles.down}>쿼리 </div>
       <div class="container">
         <br />
         <br />
@@ -21,4 +21,4 @@ const Resources5 = () => {
   );
 };
 
-export default Resources5;
+export default inquiry;

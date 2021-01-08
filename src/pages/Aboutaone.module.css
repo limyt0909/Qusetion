@@ -1,5 +1,6 @@
 /* 자동으로 고유해질 것이므로 흔히 사용되는 단어를 클래스 이름대로 사용가능 */
 
+/* top,bottom 배경색 */
 .up {
   padding: 2rem;
   margin: 1rem;
@@ -8,22 +9,21 @@
   text-align: left;
 }
 
+/*bottom.js 에서 하단 주소*/
 .down {
   background: rgb(2, 0, 3);
   padding: 1rem;
   color: rgb(252, 253, 253);
-  font-size: 4rem;
+  font-size: 3rem;
   text-align: center;
 }
 
-.bottom {
-  padding: 2rem;
-  margin: 1rem;
-  color: rgb(1, 18, 20);
-  font-size: 3rem;
-  text-align: left;
+/* 회사소개 */
+.aboutaone {
+  font-size: 16px;
 }
 
+/*오시는길전용 */
 .map {
   color: #48afdb;
   font-size: 2rem;
@@ -32,9 +32,9 @@
   color: #757575;
 }
 
-/* 글로벌 CSS 를 작성하고 싶다면 */
+/* card */
 
-:global .something {
-  font-weight: 800;
-  color: aqua;
+.card {
+  font-size: 0.5rem;
+  color: #757575;
 }

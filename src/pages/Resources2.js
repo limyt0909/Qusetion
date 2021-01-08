@@ -2,27 +2,24 @@ import React from 'react';
 import Top from '../Top/Top';
 import Bottom from '../Bottom/Bottom';
 
-
-
+import Img1 from '../images/관세무역자료실.png';
+import Img2 from '../images/관세무역자료실2.png';
 import styles from './Aboutaone.module.css';
 
-
 const Resources2 = () => {
-    return (
+  return (
     <div>
-     
-            <Top />
-            <div className={styles.down}>관세무역 자료실 </div>
-            <div class = "container">
-                <br />
-                <br />          
+      <Top />
+      <div className={styles.down}>관세무역 자료실 </div>
 
-<br /><br />
+      <img src={Img1} alt="자료실" />
+      <img src={Img2} alt="자료실2" />
+      <br />
+      <br />
 
-            </div>
-            <Bottom />
-        </div>
-    );
+      <Bottom />
+    </div>
+  );
 };
 
 export default Resources2;

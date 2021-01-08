@@ -10,11 +10,9 @@ const Bottom = () => {
   return (
     <>
       <div className={styles.up}>
-        <br />
-        <br />
         <div class="container">
           <div class="row">
-            <div class="col-9">
+            <div class="col-10">
               <Navbar.Brand href="/">
                 <img src={Img2} alt="whitemark2" />
               </Navbar.Brand>
@@ -23,7 +21,7 @@ const Bottom = () => {
               Copyright © 2021 A-One Customs & Trade Service. All Rights
               Reserved. <br />
               서울특별시 강남구 언주로 703 LX한국국토정보공사 3층 관세법인
-              에이원 /<br /> 대표전화 02-2017-3300 / 팩스 02-2017-3399
+              에이원 / 대표전화 02-2017-3300 / 팩스 02-2017-3399
               <br />
               e-Mail
               <a href="mailto:aone-trade@aonecustoms.com">
@@ -32,7 +30,7 @@ const Bottom = () => {
               <br />
               　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
             </div>
-            <div class="col-3">
+            <div class="col-2">
               {' '}
               <img src={Img3} alt="가족친화우수기업" />
             </div>

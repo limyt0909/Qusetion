@@ -20,34 +20,16 @@ const Aboutaone11 = () => {
         <br />
         <br />
         <div class="row">
-          <div class="col-9">
+          <div class="col-12">
             <hr />
           </div>
-          <div class="col-5">
+          <div class="col-7">
             <div className={styles.map}>서울 본사</div>
             <div className={styles.maptext}>
               서울특별시 강남구 언주로 703 LX한국국토정보공사 3층(06053) <br />
               Tel : +82-2-2017-3300 / Fax : +82 2-2017-3399
-            </div>
-          </div>
-          <div class="col-5">
-            {' '}
-            <iframe
-              class="wrap-box-element"
-              frameborder="0"
-              scrolling="yes"
-              marginheight="0"
-              marginwidth="0"
-              src="https://maps.google.com/maps?q=37.515897,127.034914&amp;ll=37.515897,127.034914&amp;z=16&amp;output=embed"
-            ></iframe>
-          </div>
-
-          <div class="col-9">
-            <hr />
-          </div>
-          <div class="col-5">
-            <div className={styles.map}>컨설팅사업본부</div>
-            <div className={styles.maptext}>
+              <br /> <br /> <br />
+              <div className={styles.map}>컨설팅사업본부</div>
               서울특별시 강남구 언주로 703 LX한국국토정보공사 지하1층(06053){' '}
               <br />
               Tel : +82-2-2017-3379 / Fax : +82 2-2017-3339
@@ -58,17 +40,19 @@ const Aboutaone11 = () => {
             <iframe
               class="wrap-box-element"
               frameborder="0"
-              scrolling="no"
+              scrolling="yes"
               marginheight="0"
               marginwidth="0"
+              height="300"
+              width="400"
               src="https://maps.google.com/maps?q=37.515897,127.034914&amp;ll=37.515897,127.034914&amp;z=16&amp;output=embed"
             ></iframe>
           </div>
 
-          <div class="col-9">
+          <div class="col-12">
             <hr />
           </div>
-          <div class="col-5">
+          <div class="col-7">
             <div className={styles.map}>부산총괄본부</div>
 
             <div className={styles.maptext}>
@@ -84,14 +68,16 @@ const Aboutaone11 = () => {
               scrolling="no"
               marginheight="0"
               marginwidth="0"
+              height="300"
+              width="400"
               src="https://maps.google.com/maps?q=35.109417,129.038722&amp;ll=35.109417,129.038722&amp;z=16&amp;output=embed"
             ></iframe>
           </div>
 
-          <div class="col-9">
+          <div class="col-12">
             <hr />
           </div>
-          <div class="col-5">
+          <div class="col-7">
             <div className={styles.map}>인천총괄본부</div>
             <div className={styles.maptext}>
               인천광역시 중구 영종대로 124 한정빌딩 5층(22731) <br />
@@ -106,14 +92,16 @@ const Aboutaone11 = () => {
               scrolling="no"
               marginheight="0"
               marginwidth="0"
+              height="300"
+              width="400"
               src="https://maps.google.com/maps?q=37.494700,126.493114&amp;ll=37.494700,126.493114&amp;z=16&amp;output=embed"
             ></iframe>
           </div>
 
-          <div class="col-9">
+          <div class="col-12">
             <hr />
           </div>
-          <div class="col-5">
+          <div class="col-7">
             <div className={styles.map}>안양지점</div>
             <div className={styles.maptext}>
               경기도 의왕시 오봉로 175,본관 405호 (16079)
@@ -128,14 +116,16 @@ const Aboutaone11 = () => {
               scrolling="no"
               marginheight="0"
               marginwidth="0"
+              height="300"
+              width="400"
               src="https://maps.google.com/maps?q=37.33025,126.95808&amp;ll=37.33025,126.95808&amp;z=16&amp;output=embed"
             ></iframe>
           </div>
 
-          <div class="col-9">
+          <div class="col-12">
             <hr />
           </div>
-          <div class="col-5">
+          <div class="col-7">
             <div className={styles.map}>평택지점</div>
             <div className={styles.maptext}>
               경기도 평택시 포승읍 연암길 37-3번지(17962)
@@ -150,14 +140,16 @@ const Aboutaone11 = () => {
               scrolling="no"
               marginheight="0"
               marginwidth="0"
+              height="300"
+              width="400"
               src="https://maps.google.com/maps?q=36.962292,126.852405&amp;ll=36.962292,126.852405&amp;z=16&amp;output=embed"
             ></iframe>
           </div>
 
-          <div class="col-9">
+          <div class="col-12">
             <hr />
           </div>
-          <div class="col-5">
+          <div class="col-7">
             <div className={styles.map}>구미지점</div>
             <div className={styles.maptext}>
               경상북도 구미시 1공단로 182 금오빌딩 310호 (39375)
@@ -172,14 +164,16 @@ const Aboutaone11 = () => {
               scrolling="no"
               marginheight="0"
               marginwidth="0"
+              height="300"
+              width="400"
               src="https://maps.google.com/maps?q=36.10162,128.38292&amp;ll=36.10162,128.38292&amp;z=16&amp;output=embed"
             ></iframe>
           </div>
 
-          <div class="col-9">
+          <div class="col-12">
             <hr />
           </div>
-          <div class="col-5">
+          <div class="col-7">
             <div className={styles.map}>창원지점</div>
             <div className={styles.maptext}>
               경상남도 창원시 성산구 상남로 71 창원코아상가 505호 <br />
@@ -194,14 +188,16 @@ const Aboutaone11 = () => {
               scrolling="no"
               marginheight="0"
               marginwidth="0"
+              height="300"
+              width="400"
               src="https://maps.google.com/maps?q=35.19847,128.70272&amp;ll=35.19847,128.70272&amp;z=16&amp;output=embed"
             ></iframe>
           </div>
 
-          <div class="col-9">
+          <div class="col-12">
             <hr />
           </div>
-          <div class="col-5">
+          <div class="col-7">
             <div className={styles.map}>울산지점</div>
             <div className={styles.maptext}>
               울산광역시 남구 수암로 185-1 2층 (44736) <br />
@@ -216,14 +212,16 @@ const Aboutaone11 = () => {
               scrolling="no"
               marginheight="0"
               marginwidth="0"
+              height="300"
+              width="400"
               src="https://maps.google.com/maps?q=35.52702,129.32736&amp;ll=35.52702,129.32736&amp;z=16&amp;output=embed"
             ></iframe>
           </div>
 
-          <div class="col-9">
+          <div class="col-12">
             <hr />
           </div>
-          <div class="col-5">
+          <div class="col-7">
             <div className={styles.map}>여수지점</div>
             <div className={styles.maptext}>
               전라남도 여수시 선소로 130 2층 (59680) <br />
@@ -238,12 +236,14 @@ const Aboutaone11 = () => {
               scrolling="no"
               marginheight="0"
               marginwidth="0"
+              height="300"
+              width="400"
               src="https://maps.google.com/maps?q=34.76379,127.66986&amp;ll=34.76379,127.66986&amp;z=16&amp;output=embed"
             ></iframe>
           </div>
         </div>
       </div>
-
+      <br />
       <Bottom />
     </div>
   );
