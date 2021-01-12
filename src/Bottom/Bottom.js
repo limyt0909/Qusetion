@@ -23,7 +23,7 @@ const Bottom = () => {
               서울특별시 강남구 언주로 703 LX한국국토정보공사 3층 관세법인
               에이원 / 대표전화 02-2017-3300 / 팩스 02-2017-3399
               <br />
-              e-Mail
+              e-Mail　
               <a href="mailto:aone-trade@aonecustoms.com">
                 aone-trade@aonecustoms.com
               </a>
