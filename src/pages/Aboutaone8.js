@@ -16,7 +16,8 @@ const Aboutaone8 = () => {
         <img src={Img1} alt="인사제도1" />
         <br />
         <img src={Img2} alt="인사제도2" />
-      </div>
+      </div>{' '}
+      <br />
       <Bottom />
     </div>
   );

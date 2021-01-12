@@ -13,6 +13,7 @@
   margin: 1rem;
   color: rgb(1, 18, 20);
   font-size: 3rem;
+
   text-align: left;
 }
 
@@ -54,4 +55,9 @@
 .cardbody {
   font-size: 1rem;
   color: #757575;
+}
+
+.font {
+  font-family: 'Nanum Gothic';
+  font-size: 13pt;
 }

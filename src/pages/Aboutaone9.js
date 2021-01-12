@@ -13,6 +13,7 @@ const Aboutaone9 = () => {
       <div class="container">
         <br />
         <br />
+        <h2>복리후생</h2>
         <br />
 
         <img src={Img1} alt="복리후생" />
