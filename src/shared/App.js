@@ -71,7 +71,6 @@ class App extends Component {
         <Route exact path="/aboutaone9" component={Aboutaone9} />
         <Route exact path="/aboutaone10" component={Aboutaone10} />
         <Route exact path="/aboutaone11" component={Aboutaone11} />
-
         <Route exact path="/CustomAone" component={CustomAone} />
         <Route exact path="/CustomAone2" component={CustomAone2} />
         <Route exact path="/CustomAone3" component={CustomAone3} />
@@ -81,7 +80,6 @@ class App extends Component {
         <Route exact path="/CustomAone7" component={CustomAone7} />
         <Route exact path="/CustomAone8" component={CustomAone8} />
         <Route exact path="/CustomAone9" component={CustomAone9} />
-
         <Route exact path="/Consultation" component={Consultation} />
         <Route exact path="/Consultation2" component={Consultation2} />
         <Route exact path="/Consultation3" component={Consultation3} />
@@ -90,13 +88,11 @@ class App extends Component {
         <Route exact path="/Consultation6" component={Consultation6} />
         <Route exact path="/Consultation7" component={Consultation7} />
         <Route exact path="/Consultation8" component={Consultation8} />
-
         <Route exact path="/Education" component={Education} />
         <Route exact path="/Education2" component={Education2} />
         <Route exact path="/Education3" component={Education3} />
         <Route exact path="/Education4" component={Education4} />
         <Route exact path="/Education5" component={Education5} />
-
         <Route exact path="/Resources" component={Resources} />
         <Route exact path="/Resources2" component={Resources2} />
         <Route exact path="/Resources3" component={Resources3} />
