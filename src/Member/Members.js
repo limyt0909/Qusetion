@@ -62,12 +62,12 @@ const Members = () => {
               <div class="col-xs-6 col-sm-3">
                 <div class="card">
                   <div class="card-header">
-                    <img src={Img1_1} alt="Profile Image" class="profile-img" />
+                    <img src={Img1_3} alt="Profile Image" class="profile-img" />
                   </div>
                   <div class="card-body">
-                    <p class="full-name">컨설팅총괄본부 팀장</p>
+                    <p class="full-name">컨설팅사업본부 본부장</p>
 
-                    <p class="username">손영희</p>
+                    <p class="username">오영록</p>
                     <img src={Img4} />
                     <a href="mailto:aone-trade@aonecustoms.com">Send Message</a>
                   </div>
@@ -77,12 +77,12 @@ const Members = () => {
               <div class="col-xs-6 col-sm-3">
                 <div class="card">
                   <div class="card-header">
-                    <img src={Img1_2} alt="Profile Image" class="profile-img" />
+                    <img src={Img1_1} alt="Profile Image" class="profile-img" />
                   </div>
                   <div class="card-body">
-                    <p class="full-name">컨설팅사업부문 팀장</p>
+                    <p class="full-name">컨설팅총괄본부 본부장</p>
 
-                    <p class="username">한길림</p>
+                    <p class="username">손영희</p>
                     <img src={Img4} />
                     <a href="mailto:aone-trade@aonecustoms.com">Send Message</a>
                   </div>
@@ -105,11 +105,11 @@ const Members = () => {
               <div class="col-xs-6 col-sm-3">
                 <div class="card">
                   <div class="card-header">
-                    <img src={Img1_3} alt="Profile Image" class="profile-img" />
+                    <img src={Img1_2} alt="Profile Image" class="profile-img" />
                   </div>
                   <div class="card-body">
-                    <p class="full-name">컨설팅사업본부 본부장</p>
-                    <p class="username">오영록</p>
+                    <p class="full-name">컨설팅사업부문 팀장</p>
+                    <p class="username">한길림</p>
                     <img src={Img4} />
                     <a href="mailto:aone-trade@aonecustoms.com">Send Message</a>
                   </div>
@@ -133,7 +133,7 @@ const Members = () => {
                     <img src={Img2_1} alt="Profile Image" class="profile-img" />
                   </div>
                   <div class="card-body">
-                    <p class="full-name">일반통관부문 부문장</p>
+                    <p class="full-name">일반통관본부 본부장</p>
 
                     <p class="username">손은정</p>
                     <img src={Img4} />
@@ -163,7 +163,7 @@ const Members = () => {
                     <img src={Img2_4} alt="Profile Image" class="profile-img" />
                   </div>
                   <div class="card-body">
-                    <p class="full-name">안양지점 지사장</p>
+                    <p class="full-name">안양지점 지점장</p>
                     <p class="username">김도환</p>
                     <img src={Img4} />
                     <a href="mailto:aone-trade@aonecustoms.com">Send Message</a>
@@ -218,7 +218,7 @@ const Members = () => {
                     <img src={Img3_2} alt="Profile Image" class="profile-img" />
                   </div>
                   <div class="card-body">
-                    <p class="full-name">인천공항지점</p>
+                    <p class="full-name">인천총괄본부 관세사</p>
 
                     <p class="username">임항섭</p>
                     <img src={Img4} />
@@ -233,7 +233,7 @@ const Members = () => {
                     <img src={Img3_3} alt="Profile Image" class="profile-img" />
                   </div>
                   <div class="card-body">
-                    <p class="full-name">인천공항지점 부문장</p>
+                    <p class="full-name">인천총괄본부 부문장</p>
                     <p class="username">김교일</p>
                     <img src={Img4} />
                     <a href="mailto:aone-trade@aonecustoms.com">Send Message</a>
@@ -277,7 +277,7 @@ const Members = () => {
                   </div>
                 </div>
               </div>
-              　　　　　　　
+              　　　　　　　　
               <div class="col-3">
                 <div class="card">
                   <div class="card-header">
@@ -347,7 +347,6 @@ const Members = () => {
                   </div>
                 </div>
               </div>
-
               <div class="col-3">
                 <div class="card">
                   <div class="card-header">

@@ -91,10 +91,10 @@ const Member = () => {
           <div class="col-12">
             <hr />
           </div>
-          <div class="col-5">
-            <img src={Img12} alt="황재호 부대표" />
+          <div class="col-sm-6">
+            <img src={Img12} className={styles.torso} alt="황재호 부대표" />
           </div>
-          <div class="col-4">
+          <div class="col-sm-3">
             <div className={styles.map}>황재호 부대표</div>
             <div className={styles.card}>
               *e-Mail ezpss@aonecustoms.com <br />
@@ -108,10 +108,10 @@ const Member = () => {
           <div class="col-12">
             <hr />
           </div>
-          <div class="col-5">
-            <img src={Img15} alt="정철 부대표" />
+          <div class="col-sm-6">
+            <img src={Img15} className={styles.torso} alt="정철 부대표" />
           </div>
-          <div class="col-4">
+          <div class="col-sm-3">
             <div className={styles.map}>정철 부대표</div>
             <div className={styles.card}>
               *e-Mail jch@aonecustoms.com
@@ -132,7 +132,7 @@ const Member = () => {
               서울세관장 표창(2008) <br />
             </div>
           </div>
-          <div class="col-3">
+          <div class="col-sm-3">
             <div className={styles.card}>
               <br />
               <br />
@@ -145,10 +145,10 @@ const Member = () => {
           <div class="col-12">
             <hr />
           </div>
-          <div class="col-5">
-            <img src={Img14} alt="박찬욱 부대표" />
+          <div class="col-sm-6">
+            <img src={Img14} className={styles.torso} alt="박찬욱 부대표" />
           </div>
-          <div class="col-4">
+          <div class="col-sm-3">
             <div className={styles.map}>박찬욱 부대표</div>
             <div className={styles.card}>
               *e-Mail cupark@aonecustoms.com <br /> <h2>주요 경력</h2>관세법인
@@ -165,7 +165,7 @@ const Member = () => {
               관세청) <br /> *학력 서울대학교 과학기술혁신 최고전략과정 이수
             </div>
           </div>
-          <div class="col-3">
+          <div class="col-sm-3">
             <div className={styles.card}>
               <br />
               <br />
@@ -178,10 +178,10 @@ const Member = () => {
           <div class="col-12">
             <hr />
           </div>
-          <div class="col-5">
-            <img src={Img13} alt="이성욱 부대표" />
+          <div class="col-sm-6">
+            <img src={Img13} className={styles.torso} alt="이성욱 부대표" />
           </div>
-          <div class="col-4">
+          <div class="col-sm-3">
             <div className={styles.map}>이성욱 부대표</div>
             <div className={styles.card}>
               *e-Mail tnt-2000@aonecustoms.com
@@ -197,7 +197,7 @@ const Member = () => {
               <br />
             </div>
           </div>
-          <div class="col-3">
+          <div class="col-sm-3">
             <div className={styles.card}>
               <br />
               <br />

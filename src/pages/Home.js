@@ -2,7 +2,7 @@ import React from 'react';
 
 import Top from '../Top/Top';
 import Bottom from '../Bottom/Bottom';
-import GroupCard from '../Card/GroupCard';
+
 import Slideshow from '../Slideshow/Slideshow';
 
 import Img1 from '../images/home1.png';
