@@ -11,7 +11,7 @@ const Consultation5 = () => {
   return (
     <div>
       <Top />
-      <div className={styles.down}>AEO</div>
+      <div className={styles.title}>AEO</div>
       <div class="container">
         <div className={styles.font}>
           <br />

@@ -11,7 +11,7 @@ const CustomAone5 = () => {
     <div>
       <Top />
 
-      <div className={styles.down}>검역</div>
+      <div className={styles.title}>검역</div>
 
       <div class="container">
         <div className={styles.font}>

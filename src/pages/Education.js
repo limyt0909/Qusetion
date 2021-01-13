@@ -13,7 +13,7 @@ const Education = () => {
   return (
     <div>
       <Top />
-      <div className={styles.down}>E-Learning</div>
+      <div className={styles.title}>E-Learning</div>
       <div class="container">
         <div className={styles.font}>
           <br />

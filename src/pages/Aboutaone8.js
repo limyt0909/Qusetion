@@ -9,7 +9,7 @@ const Aboutaone8 = () => {
   return (
     <div>
       <Top />
-      <div className={styles.down}>인사제도</div>
+      <div className={styles.title}>인사제도</div>
       <div class="container">
         <br />
         <br />

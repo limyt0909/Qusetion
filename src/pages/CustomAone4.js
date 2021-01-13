@@ -12,7 +12,7 @@ const CustomAone4 = () => {
     <div>
       <Top />
 
-      <div className={styles.down}>관세환급</div>
+      <div className={styles.title}>관세환급</div>
 
       <div class="container">
         <div className={styles.font}>

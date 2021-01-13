@@ -9,7 +9,7 @@ const Aboutaone9 = () => {
   return (
     <div>
       <Top />
-      <div className={styles.down}>복리후생</div>
+      <div className={styles.title}>복리후생</div>
       <div class="container">
         <br />
         <br />

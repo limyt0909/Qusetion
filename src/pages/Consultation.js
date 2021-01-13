@@ -11,7 +11,7 @@ const Consultation = () => {
   return (
     <div>
       <Top />
-      <div className={styles.down}>심사 대리</div>
+      <div className={styles.title}>심사 대리</div>
       <div class="container">
         <div className={styles.font}>
           <br />

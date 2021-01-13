@@ -12,7 +12,7 @@ const Education5 = () => {
   return (
     <div>
       <Top />
-      <div className={styles.down}>글로벌 네트워크 </div>
+      <div className={styles.title}>글로벌 네트워크 </div>
       <div class="container">
         <br />
         <br />

@@ -12,7 +12,7 @@ const Consultation8 = () => {
   return (
     <div>
       <Top />
-      <div className={styles.down}>지적재산권</div>
+      <div className={styles.title}>지적재산권</div>
       <div class="container">
         <div className={styles.font}>
           <br />

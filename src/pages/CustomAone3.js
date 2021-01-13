@@ -11,7 +11,7 @@ const CustomAone3 = () => {
     <div>
       <Top />
 
-      <div className={styles.down}>소액 물품 및 이사화물</div>
+      <div className={styles.title}>소액 물품 및 이사화물</div>
 
       <div class="container">
         <div className={styles.font}>

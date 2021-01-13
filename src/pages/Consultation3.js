@@ -12,7 +12,7 @@ const Consultation3 = () => {
   return (
     <div>
       <Top />
-      <div className={styles.down}>행정쟁송 대리</div>
+      <div className={styles.title}>행정쟁송 대리</div>
 
       <div class="container">
         <div className={styles.font}>

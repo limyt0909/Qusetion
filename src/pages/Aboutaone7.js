@@ -8,7 +8,7 @@ const Aboutaone7 = () => {
   return (
     <div>
       <Top />
-      <div className={styles.down}>인재상</div>
+      <div className={styles.title}>인재상</div>
 
       <div class="container">
         {' '}

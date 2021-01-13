@@ -15,7 +15,7 @@ const Consultation6 = () => {
   return (
     <div>
       <Top />
-      <div className={styles.down}>관세리스크</div>
+      <div className={styles.title}>관세리스크</div>
 
       <div class="container">
         <div className={styles.font}>

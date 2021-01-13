@@ -11,7 +11,7 @@ const Education4 = () => {
   return (
     <div>
       <Top />
-      <div className={styles.down}>산업별 네트워크 </div>
+      <div className={styles.title}>산업별 네트워크 </div>
       <div class="container">
         <div className={styles.font}>
           <br />

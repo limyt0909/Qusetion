@@ -9,7 +9,7 @@ const Aboutaone5 = () => {
     <>
       <Top />
 
-      <div className={styles.down}> 연혁 </div>
+      <div className={styles.title}> 연혁 </div>
 
       <br />
       <div className={styles.font}>

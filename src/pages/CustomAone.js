@@ -12,7 +12,7 @@ const CustomAone = () => {
   return (
     <div>
       <Top />
-      <div className={styles.down}>수입통관</div>
+      <div className={styles.title}>수입통관</div>
       <div class="container">
         <div className={styles.font}>
           <br />

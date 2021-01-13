@@ -12,7 +12,7 @@ const CustomAone7 = () => {
     <div>
       <Top />
 
-      <div className={styles.down}>무역거래 컨설팅</div>
+      <div className={styles.title}>무역거래 컨설팅</div>
 
       <div class="container">
         <div className={styles.font}>

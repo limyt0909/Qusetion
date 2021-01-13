@@ -11,7 +11,7 @@ const Education3 = () => {
   return (
     <div>
       <Top />
-      <div className={styles.down}>A-One 소식 </div>
+      <div className={styles.title}>A-One 소식 </div>
       <div class="container">
         <br />
 

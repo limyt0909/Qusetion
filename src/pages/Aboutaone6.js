@@ -8,7 +8,7 @@ const Aboutaone6 = () => {
   return (
     <div>
       <Top />
-      <div className={styles.down}> C I (Corporation Identity System)</div>
+      <div className={styles.title}> C I (Corporation Identity System)</div>
       <div class="container">
         <div className={styles.font}>
           {' '}

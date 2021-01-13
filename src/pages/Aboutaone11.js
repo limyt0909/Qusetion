@@ -8,7 +8,7 @@ const Aboutaone11 = () => {
   return (
     <div>
       <Top />
-      <div className={styles.down}>오시는길</div>
+      <div className={styles.title}>오시는길</div>
       <br />
       <br />
 

@@ -15,7 +15,7 @@ const Aboutaone4 = () => {
   return (
     <>
       <Top />
-      <div className={styles.down}> 경영방침 </div>
+      <div className={styles.title}> 경영방침 </div>
       <br />
       <div className={styles.font}>
         <div class="container">

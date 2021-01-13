@@ -11,7 +11,7 @@ const CustomAone2 = () => {
     <div>
       <Top />
 
-      <div className={styles.down}>수출통관</div>
+      <div className={styles.title}>수출통관</div>
       <div class="container">
         <div className={styles.font}>
           <br />

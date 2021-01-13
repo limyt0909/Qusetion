@@ -11,7 +11,7 @@ const Consultation4 = () => {
   return (
     <div>
       <Top />
-      <div className={styles.down}>FTA</div>
+      <div className={styles.title}>FTA</div>
       <div class="container">
         <div className={styles.font}>
           <br />

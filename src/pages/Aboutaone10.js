@@ -12,7 +12,7 @@ const Aboutaone10 = () => {
   return (
     <div>
       <Top />
-      <div className={styles.down}>주요고객사</div>
+      <div className={styles.title}>주요고객사</div>
       <div className={styles.font}>
         <div class="container">
           <br />
