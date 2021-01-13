@@ -12,7 +12,7 @@ const Resources4 = () => {
   return (
     <div>
       <Top />
-      <div className={styles.down}>유관기관 안내 </div>
+      <div className={styles.title}>유관기관 안내 </div>
       <img src={Img1} alt="유관기관1" />
       <img src={Img2} alt="유관기관2" />
       <img src={Img3} alt="유관기관3" />

@@ -11,7 +11,7 @@ const Resources5 = () => {
   return (
     <div>
       <Top />
-      <div className={styles.down}>정운기 칼럼 </div>
+      <div className={styles.title}>정운기 칼럼 </div>
       <img src={Img1} alt="정운기칼럼" />
       <img src={Img2} alt="정운기칼럼2" />
       <Bottom />

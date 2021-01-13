@@ -10,7 +10,7 @@ const Resources2 = () => {
   return (
     <div>
       <Top />
-      <div className={styles.down}>관세무역 자료실 </div>
+      <div className={styles.title}>관세무역 자료실 </div>
 
       <img src={Img1} alt="자료실" />
       <img src={Img2} alt="자료실2" />

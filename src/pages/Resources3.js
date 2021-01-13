@@ -12,7 +12,7 @@ const Resources3 = () => {
   return (
     <div>
       <Top />
-      <div className={styles.down}>A-one Webzone </div>
+      <div className={styles.title}>A-one Webzone </div>
 
       <img src={Img1} alt="웹존1" />
       <img src={Img2} alt="웹존2" />

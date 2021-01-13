@@ -139,4 +139,6 @@ body {
 /* 이미지 fit */
 .torso {
   object-fit: fill;
+  width: 300px;
+  height: 300px;
 }

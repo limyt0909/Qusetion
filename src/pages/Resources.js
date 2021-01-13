@@ -11,7 +11,7 @@ const Resources = () => {
   return (
     <div>
       <Top />
-      <div className={styles.down}>관세무역 뉴스 </div>
+      <div className={styles.title}>관세무역 뉴스 </div>
       <br />
 
       <br />
