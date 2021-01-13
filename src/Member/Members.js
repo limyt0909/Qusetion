@@ -59,7 +59,7 @@ const Members = () => {
         <div class={styles}>
           <div class="row">
             <div class="card-group">
-              <div class="col-6 col-sm-3">
+              <div class="col-xs-6 col-sm-3">
                 <div class="card">
                   <div class="card-header">
                     <img src={Img1_1} alt="Profile Image" class="profile-img" />
@@ -74,7 +74,7 @@ const Members = () => {
                 </div>
               </div>
 
-              <div class="col-6 col-sm-3">
+              <div class="col-xs-6 col-sm-3">
                 <div class="card">
                   <div class="card-header">
                     <img src={Img1_2} alt="Profile Image" class="profile-img" />
@@ -89,7 +89,7 @@ const Members = () => {
                 </div>
               </div>
 
-              <div class="col-6 col-sm-3">
+              <div class="col-xs-6 col-sm-3">
                 <div class="card">
                   <div class="card-header">
                     <img src={Img1_4} alt="Profile Image" class="profile-img" />
@@ -102,7 +102,7 @@ const Members = () => {
                   </div>
                 </div>
               </div>
-              <div class="col-6 col-sm-3">
+              <div class="col-xs-6 col-sm-3">
                 <div class="card">
                   <div class="card-header">
                     <img src={Img1_3} alt="Profile Image" class="profile-img" />
