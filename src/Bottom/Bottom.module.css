@@ -1,16 +1,16 @@
 /* 자동으로 고유해질 것이므로 흔히 사용되는 단어를 클래스 이름대로 사용가능 */
 
 .up {
-  background: rgb(2, 17, 27);
+  background: #3b3e4f;
   padding: 1rem;
-  color: white;
+  color: #e8ecef;
   font-size: 1rem;
 }
 
 .down {
-  background: rgb(232, 230, 238);
+  background: #2c2e3a;
   padding: 1rem;
-  color: rgb(8, 5, 5);
+  color: #e8ecef;
   font-size: 1rem;
   text-align: center;
 }

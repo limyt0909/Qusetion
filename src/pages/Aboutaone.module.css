@@ -1,5 +1,7 @@
 /* 자동으로 고유해질 것이므로 흔히 사용되는 단어를 클래스 이름대로 사용가능 */
 
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+
 /* 이미지 fit */
 .torso {
   object-fit: contain;
@@ -13,15 +15,15 @@
   margin: 1rem;
   color: rgb(1, 18, 20);
   font-size: 3rem;
-
   text-align: left;
 }
 
-/*bottom.js 에서 하단 주소*/
+/* 타이틀*/
 .down {
   background: rgb(2, 0, 3);
   padding: 1rem;
   color: rgb(252, 253, 253);
+  font-family: 'Nanum Gothic', sans-serif;
   font-size: 3rem;
   text-align: center;
 }
@@ -58,6 +60,6 @@
 }
 
 .font {
-  font-family: 'Nanum Gothic';
+  font-family: 'Nanum Gothic', sans-serif;
   font-size: 13pt;
 }
