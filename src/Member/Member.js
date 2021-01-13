@@ -36,10 +36,10 @@ const Member = () => {
           <div class="col-12">
             <hr />
           </div>
-          <div class="col-5">
-            <img src={Img11} alt="정운기회장님" />
+          <div class="col-sm-4">
+            <img src={Img11} className={styles.torso} alt="정운기회장님" />
           </div>
-          <div class="col-4">
+          <div class="col-sm-4">
             <div className={styles.map}>정운기 회장</div>
             <div className={styles.card}>
               *e-Mail woonki121@aounecustoms.com <br />
@@ -70,7 +70,7 @@ const Member = () => {
               <br /> 유네스코 한국위원회 홍보개발위원(현재)
             </div>
           </div>
-          <div class="col-3">
+          <div class="col-sm-4">
             <div className={styles.card}>
               <br />
               <br />
