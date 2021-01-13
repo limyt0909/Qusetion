@@ -22,12 +22,6 @@ const Top = () => {
             <img src={Img3} alt="blackmark3" />{' '}
           </Navbar.Brand>
           <div class="w3-right w3-hide-small">
-            <a href="#projects" class="w3-bar-item w3-button">
-              Projects
-            </a>
-            <a href="#about" class="w3-bar-item w3-button">
-              About
-            </a>
             <a
               href="http://aone.helptrade.net/rkdk/rkr.asp"
               class="w3-bar-item w3-button"

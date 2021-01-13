@@ -12,7 +12,7 @@ const Bottom = () => {
       <div className={styles.up}>
         <div class="container">
           <div class="row">
-            <div class="col-10">
+            <div class="col-9">
               <Navbar.Brand href="/">
                 <img src={Img2} alt="whitemark2" />
               </Navbar.Brand>
@@ -30,7 +30,7 @@ const Bottom = () => {
               <br />
               　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
             </div>
-            <div class="col-2">
+            <div class="col-3">
               {' '}
               <img src={Img3} alt="가족친화우수기업" />
             </div>

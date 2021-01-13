@@ -448,59 +448,7 @@ const Members = () => {
 
       <br />
       <br />
-      <div class="container">
-        <h2>IT팀</h2>
-        <div class={styles}>
-          <div class="row">
-            <div class="card-group">
-              <div class="col-3">
-                <div class="card">
-                  <div class="card-header">
-                    <img src={Img6_2} alt="Profile Image" class="profile-img" />
-                  </div>
-                  <div class="card-body">
-                    <p class="full-name">IT팀 팀장</p>
 
-                    <p class="username">박현우</p>
-                    <img src={Img4} />
-                    <a href="mailto:aone-trade@aonecustoms.com">Send Message</a>
-                  </div>
-                </div>
-              </div>
-              　　　
-              <div class="col-3">
-                <div class="card">
-                  <div class="card-header">
-                    <img src={Img6_3} alt="Profile Image" class="profile-img" />
-                  </div>
-                  <div class="card-body">
-                    <p class="full-name">선임</p>
-
-                    <p class="username">정원석</p>
-                    <img src={Img4} />
-                    <a href="mailto:aone-trade@aonecustoms.com">Send Message</a>
-                  </div>
-                </div>
-              </div>
-              　　　
-              <div class="col-3">
-                <div class="card">
-                  <div class="card-header">
-                    <img src={Img6_4} alt="Profile Image" class="profile-img" />
-                  </div>
-                  <div class="card-body">
-                    <p class="full-name">주임</p>
-
-                    <p class="username">임용택</p>
-                    <img src={Img4} />
-                    <a href="mailto:aone-trade@aonecustoms.com">Send Message</a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
     </>
   );
 };
