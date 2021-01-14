@@ -56,3 +56,11 @@
   font-family: 'Nanum Gothic', sans-serif;
   font-size: 13pt;
 }
+
+/* 가운데 컨테이너 정렬 */
+.margin {
+  margin: 25px 50px 75px 100px;
+}
+.margin2 {
+  margin: 25px 50px 75px 300px;
+}

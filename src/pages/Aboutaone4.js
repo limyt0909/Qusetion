@@ -17,55 +17,58 @@ const Aboutaone4 = () => {
       <Top />
       <div className={styles.title}> 경영방침 </div>
       <br />
-      <div className={styles.font}>
-        <div class="container">
-          <img src={Img1} alt="경영방침" />
-          <br />
-          <div class="row">
-            <div class="col-9">
-              관세무역 에이원은 국제무역거래의 일원으로 테러방지라는 국제적
-              물류관리 흐름에 동참하고 새로운 무역관행으로 대두되고 있는 안전한
-              물류공급망에 적극적으로 참여하기 위하여 관세청에서 공인하는
-              종합인증 우수업체(Authorized Economic Operator) 로 공인 받아
-              AEO업체가 준수하여야 하는 제반 사항을 적극적으로 시행합니다.
-              <br />
-              <br />
-              <br />
-            </div>{' '}
-          </div>
-          <div class="row">
-            <div class="col-5">
-              <img src={Img3} alt="윤리" />
+      <div className={styles.margin2}>
+        <div className={styles.font}>
+          <div class="container">
+            <img src={Img1} alt="경영방침" />
+            <br />
+            <div class="row">
+              <div class="col-9">
+                관세무역 에이원은 국제무역거래의 일원으로 테러방지라는 국제적
+                물류관리 흐름에 동참하고 새로운 무역관행으로 대두되고 있는
+                안전한 물류공급망에 적극적으로 참여하기 위하여 관세청에서
+                공인하는 종합인증 우수업체(Authorized Economic Operator) 로 공인
+                받아 AEO업체가 준수하여야 하는 제반 사항을 적극적으로
+                시행합니다.
+                <br />
+                <br />
+                <br />
+              </div>{' '}
             </div>
-            <div class="col-6">
-              <br />
-              종합인증 우수업체 공인기준에서 요구하는 사항을 준수하고 지속적인
-              AEO시스템의 운영 및 관리를 통하여 건전한 내부통제 시스템을
-              유지하고 관세행정 법규준수도를 제고하여 수출입통관을 원활하게 하는
-              것을 목적으로 합니다.
-              <br /> <br /> 경영방침을 달성하기 위하여 우리법인의 전임직원은
-              AEO의 요구조건을 충족하도록 수립한 AEO운영 매뉴얼의 내용을
-              이해하고 숙지하여 이에 규정된 각자의 책임을 준수하여야 합니다.
-              <br />
-              <br />
+            <div class="row">
+              <div class="col-5">
+                <img src={Img3} alt="윤리" />
+              </div>
+              <div class="col-6">
+                <br />
+                종합인증 우수업체 공인기준에서 요구하는 사항을 준수하고 지속적인
+                AEO시스템의 운영 및 관리를 통하여 건전한 내부통제 시스템을
+                유지하고 관세행정 법규준수도를 제고하여 수출입통관을 원활하게
+                하는 것을 목적으로 합니다.
+                <br /> <br /> 경영방침을 달성하기 위하여 우리법인의 전임직원은
+                AEO의 요구조건을 충족하도록 수립한 AEO운영 매뉴얼의 내용을
+                이해하고 숙지하여 이에 규정된 각자의 책임을 준수하여야 합니다.
+                <br />
+                <br />
+              </div>
             </div>
           </div>
-        </div>
 
-        <div class="container">
-          <div className={styles.font}>
-            <h2>윤리헌장</h2>
-            우리는 깨끗하고 정직한 조직문화를 바탕으로 경영이념을 실천함과
-            동시에 VISON 2020실현을 위해 [윤리헌장]을
-            <br />
-            제정하고 이를 우리의 업무수행 및 의사결정의 판단기준으로 삼고자
-            합니다.
-            <br />
-            <br />
-            <img src={Img2} alt="윤리헌장" />
-            <br />
-            <br />
-            <h2>윤리규범</h2>
+          <div class="container">
+            <div className={styles.font}>
+              <h2>윤리헌장</h2>
+              우리는 깨끗하고 정직한 조직문화를 바탕으로 경영이념을 실천함과
+              동시에 VISON 2020실현을 위해 [윤리헌장]을
+              <br />
+              제정하고 이를 우리의 업무수행 및 의사결정의 판단기준으로 삼고자
+              합니다.
+              <br />
+              <br />
+              <img src={Img2} alt="윤리헌장" />
+              <br />
+              <br />
+              <h2>윤리규범</h2>
+            </div>
           </div>
         </div>
       </div>

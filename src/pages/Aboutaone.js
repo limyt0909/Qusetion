@@ -8,26 +8,26 @@ import Img3 from '../images/인사말7.png';
 
 import styles from './Aboutaone.module.css';
 
-<link rel="dns-prefetch" href="//fonts.googleapis.com" />;
-
 const Aboutaone = () => {
   return (
     <div>
       <Top />
       <div className={styles.title}> 인 사 말 </div>
       <br />
-
-      <div className={styles.aboutaone}>
-        <div class="container">
+      <div class="container">
+        <div className={styles.margin}>
           <img src={Img1} alt="인사말1" />
-          <br /> <br /> <br />
+
+          <br />
+          <br />
+          <br />
           <div className={styles.font}>
             <div class="row">
-              <div class="col-3">
+              <div class="col-sm-4">
                 {' '}
                 <img src={Img2} alt="인사말2" />
               </div>
-              <div class="col-6">
+              <div class="col-sm-6">
                 {' '}
                 업무영역 측면에서도 수출입 통관, 검역, FTA(Free Trade
                 Agreement), AEO(Authorized Economic Operator)컨설팅, 심사 쟁송
@@ -62,10 +62,9 @@ const Aboutaone = () => {
             </div>
           </div>
         </div>{' '}
+        <br />
+        <br />
       </div>
-      <br />
-
-      <br />
       <Bottom />
     </div>
   );
