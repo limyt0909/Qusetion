@@ -27,11 +27,7 @@ import Img5_1 from '../images/이신재1.png';
 import Img5_2 from '../images/장희석1.jpg';
 
 import Img6_1 from '../images/신민화1.jpg';
-import Img6_2 from '../images/박현우1.jpg';
-import Img6_3 from '../images/정원석1.jpg';
-import Img6_4 from '../images/임용택1.jpg';
 
-import Img3 from '../images/bluemark.png';
 import Img4 from '../images/message.png';
 
 import styles from './member.css';
@@ -448,7 +444,6 @@ const Members = () => {
 
       <br />
       <br />
-
     </>
   );
 };
