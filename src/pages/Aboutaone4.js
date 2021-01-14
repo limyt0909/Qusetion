@@ -15,11 +15,13 @@ const Aboutaone4 = () => {
   return (
     <>
       <Top />
+
       <div className={styles.title}> 경영방침 </div>
       <br />
       <div className={styles.margin2}>
         <div className={styles.font}>
           <div class="container">
+            <h2>경영방침</h2> <br />
             <img src={Img1} alt="경영방침" />
             <br />
             <div class="row">
@@ -36,10 +38,10 @@ const Aboutaone4 = () => {
               </div>{' '}
             </div>
             <div class="row">
-              <div class="col-5">
+              <div class="col-4.8">
                 <img src={Img3} alt="윤리" />
               </div>
-              <div class="col-6">
+              <div class="col-5">
                 <br />
                 종합인증 우수업체 공인기준에서 요구하는 사항을 준수하고 지속적인
                 AEO시스템의 운영 및 관리를 통하여 건전한 내부통제 시스템을
@@ -53,7 +55,7 @@ const Aboutaone4 = () => {
               </div>
             </div>
           </div>
-
+          <br /> <br />
           <div class="container">
             <div className={styles.font}>
               <h2>윤리헌장</h2>

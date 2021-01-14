@@ -58,10 +58,18 @@
 }
 
 /* 가운데 컨테이너 정렬 */
+
 /*top, right,bottom,left */
 .margin {
   margin: 25px 50px 75px 100px;
 }
 .margin2 {
   margin: 25px 50px 75px 300px;
+}
+
+/* 사진크기 강제적용 */
+.img2 {
+  widows: 100%;
+  margin: 0 auto;
+  text-align: center;
 }

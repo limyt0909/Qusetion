@@ -3,8 +3,10 @@ import Top from '../Top/Top';
 import Bottom from '../Bottom/Bottom';
 import Img1 from '../images/인사말1.png';
 
-import Img2 from '../images/인사말2.jpg';
-import Img3 from '../images/인사말7.png';
+import Img2 from '../images/인사말2.png';
+import Img3 from '../images/인사말3.jpg';
+import Img4 from '../images/인사말4.jpg';
+import Img5 from '../images/인사말5.jpg';
 
 import styles from './Aboutaone.module.css';
 
@@ -25,7 +27,9 @@ const Aboutaone = () => {
             <div class="row">
               <div class="col-sm-4">
                 {' '}
-                <img src={Img2} alt="인사말2" />
+                <div className={styles.img2}>
+                  <img src={Img2} alt="인사말2" />
+                </div>
               </div>
               <div class="col-sm-6">
                 {' '}
@@ -58,13 +62,24 @@ const Aboutaone = () => {
               <br />한 파트너가 되기 위해 모든 임직원이 최선을 다하는
               기업입니다.
               <br /> <br />
-              <img src={Img3} alt="인사말2" />
+              <div class="row">
+                <div class="col-4">
+                  <img src={Img3} width="250" height="200" alt="인사말3" />{' '}
+                </div>
+                <div class="col-4">
+                  <img src={Img4} width="250" height="200" alt="인사말4" />{' '}
+                </div>{' '}
+                <div class="col-4">
+                  <img src={Img5} width="250" height="200" alt="인사말5" />
+                </div>
+              </div>
             </div>
           </div>
         </div>{' '}
         <br />
         <br />
       </div>
+
       <Bottom />
     </div>
   );
