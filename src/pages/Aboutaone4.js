@@ -25,7 +25,7 @@ const Aboutaone4 = () => {
             <img src={Img1} alt="경영방침" />
             <br />
             <div class="row">
-              <div class="col-9">
+              <div class="col-sm-9">
                 관세무역 에이원은 국제무역거래의 일원으로 테러방지라는 국제적
                 물류관리 흐름에 동참하고 새로운 무역관행으로 대두되고 있는
                 안전한 물류공급망에 적극적으로 참여하기 위하여 관세청에서
@@ -38,10 +38,10 @@ const Aboutaone4 = () => {
               </div>{' '}
             </div>
             <div class="row">
-              <div class="col-4.8">
+              <div class="col-sm-4.8">
                 <img src={Img3} alt="윤리" />
               </div>
-              <div class="col-5">
+              <div class="col-sm-5">
                 <br />
                 종합인증 우수업체 공인기준에서 요구하는 사항을 준수하고 지속적인
                 AEO시스템의 운영 및 관리를 통하여 건전한 내부통제 시스템을
