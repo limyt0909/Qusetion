@@ -13,12 +13,14 @@ const Education3 = () => {
       <Top />
       <div className={styles.title}>A-One 소식 </div>
       <div class="container">
-        <br />
+        <div className={styles.margin}>
+          <br />
 
-        <img src={Img1} alt="1" />
-        <img src={Img2} alt="2" />
-        <br />
-        <br />
+          <img src={Img1} alt="1" />
+          <img src={Img2} alt="2" />
+          <br />
+          <br />
+        </div>
       </div>
       <Bottom />
     </div>

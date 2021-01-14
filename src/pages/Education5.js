@@ -14,14 +14,16 @@ const Education5 = () => {
       <Top />
       <div className={styles.title}>글로벌 네트워크 </div>
       <div class="container">
-        <br />
-        <br />
-        <img src={Img1} alt="" /> <br />
-        <img src={Img2} alt="" /> <br />
-        <br />
-        <img src={Img3} alt="" />
-        <br />
-        <br />
+        <div className={styles.margin}>
+          <br />
+          <br />
+          <img src={Img1} alt="" /> <br />
+          <img src={Img2} alt="" /> <br />
+          <br />
+          <img src={Img3} alt="" />
+          <br />
+          <br />
+        </div>
       </div>
       <Bottom />
     </div>

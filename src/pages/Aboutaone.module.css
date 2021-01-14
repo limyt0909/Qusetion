@@ -58,9 +58,14 @@
 }
 
 /* 가운데 컨테이너 정렬 */
+/*top, right,bottom,left */
 .margin {
   margin: 25px 50px 75px 100px;
 }
 .margin2 {
   margin: 25px 50px 75px 300px;
+}
+
+.img {
+  max-width: 100%;
 }
