@@ -2,8 +2,10 @@ import React from 'react';
 
 import Top from '../Top/Top';
 import Bottom from '../Bottom/Bottom';
-
 import Slideshow from '../Slideshow/Slideshow';
+
+import Homes1 from '../Homes/Homes1';
+import Homes2 from '../Homes/Homes2';
 
 import Img1 from '../images/home1.png';
 import Img2 from '../images/home2.png';
@@ -14,9 +16,8 @@ const Home = () => {
     <div>
       <Top />
       <Slideshow />
-      <img src={Img1} alt="1" />
-      <img src={Img2} alt="2" />
-      <img src={Img3} alt="3" />
+
+      <Homes2 />
 
       <Bottom />
     </div>

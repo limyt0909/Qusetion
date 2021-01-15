@@ -8,6 +8,10 @@ import Img3 from '../images/인사말3.jpg';
 import Img4 from '../images/인사말4.jpg';
 import Img5 from '../images/인사말5.jpg';
 
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
+import Container from 'react-bootstrap/Container';
+
 import styles from './Aboutaone.module.css';
 
 const Aboutaone = () => {
@@ -63,18 +67,35 @@ const Aboutaone = () => {
               기업입니다.
               <br /> <br />
               <div class="row">
-                <div class="col-4">
+                <div class="col-sm-4">
                   <img src={Img3} width="250" height="200" alt="인사말3" />{' '}
                 </div>
-                <div class="col-4">
+                <div class="col-sm-4">
                   <img src={Img4} width="250" height="200" alt="인사말4" />{' '}
                 </div>{' '}
-                <div class="col-4">
+                <div class="col-sm-4">
                   <img src={Img5} width="250" height="200" alt="인사말5" />
                 </div>
               </div>
             </div>
           </div>
+
+          <Container>
+            <Row>
+              <Col sm={4}>
+                {' '}
+                <img src={Img3} width="250" height="200" alt="인사말3" />{' '}
+              </Col>
+              <Col sm={4}>
+                {' '}
+                <img src={Img4} width="250" height="200" alt="인사말3" />{' '}
+              </Col>
+              <Col sm={4}>
+                {' '}
+                <img src={Img5} width="250" height="200" alt="인사말3" />{' '}
+              </Col>
+            </Row>
+          </Container>
         </div>{' '}
         <br />
         <br />

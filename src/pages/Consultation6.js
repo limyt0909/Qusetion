@@ -106,6 +106,7 @@ const Consultation6 = () => {
           <Customs />
         </div>
       </div>
+
       <Bottom />
     </div>
   );

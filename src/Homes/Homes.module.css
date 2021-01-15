@@ -1,0 +1,18 @@
+.text2 {
+  text-align: center;
+}
+
+.title {
+  font-size: 23px;
+}
+
+/* 배경색*/
+.back {
+  background: #f0f4f7;
+  padding: 3rem;
+  color: #3b3e4f;
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 1rem;
+  height: auto;
+  width: auto;
+}
