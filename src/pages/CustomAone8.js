@@ -19,7 +19,7 @@ const CustomAone8 = () => {
           <div className={styles.font}>
             <br />
             <br />
-            <img src={Img1} alt="" />
+            <img src={Img1} alt="" width="100%" height="auto" />
             <br />
             <br />
             무역거래에서 물류비용이 차지하는 비율은 매우 큽니다. 효율적인
@@ -35,7 +35,7 @@ const CustomAone8 = () => {
             <br />
             <br />
             <h3>에이원의 물류 비용 절감과 신속한 물류 시스템 구축 컨설팅!!</h3>
-            <img src={Img2} alt="" />
+            <img src={Img2} alt="" width="100%" height="auto" />
             <br />
             <br />
             에이원이 물류비용절감과 신속한 물류시스템 구축을 도와드리겠습니다.

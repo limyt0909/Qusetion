@@ -16,7 +16,7 @@ const Consultation5 = () => {
         <div className={styles.margin}>
           <div className={styles.font}>
             <br />
-            <img src={Img1} alt="심사대리" />
+            <img src={Img1} alt="심사대리" width="100%" height="auto" />
             <br />
             AEO(Authorized Economic Operator)는 수출입 안전관리와 통관의
             원활화를 위한 WCO(World Customs Organization)가 권고하는 제도로서

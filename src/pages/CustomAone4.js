@@ -19,7 +19,7 @@ const CustomAone4 = () => {
           <div className={styles.font}>
             <br />
             <br />
-            <img src={Img1} alt="" />
+            <img src={Img1} alt="" width="100%" height="auto" />
             <br />
             <br />
             원재료를 수입할 때 납부한 관세를 완제품을 수출함으로써 되돌려 받을
@@ -32,7 +32,7 @@ const CustomAone4 = () => {
             전문적이고 체계적인 관세환급 컨설팅과 환급 대행 서비스를 제공!!
             <br />
             <br />
-            <img src={Img2} alt="" /> <br /> <br />
+            <img src={Img2} alt="" width="100%" height="auto" /> <br /> <br />
           </div>
           <Customs />
         </div>

@@ -18,7 +18,7 @@ const CustomAone5 = () => {
           <div className={styles.font}>
             <br />
             <br />
-            <img src={Img1} alt="" />
+            <img src={Img1} alt="" width="100%" height="auto" />
             <br />
             <br />
             외국에서 수입되는 식품, 식물, 축산물 및 사료 등은 모두 검역을 통해

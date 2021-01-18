@@ -14,9 +14,9 @@ const Resources3 = () => {
       <Top />
       <div className={styles.title}>A-one Webzone </div>
 
-      <img src={Img1} alt="웹존1" />
-      <img src={Img2} alt="웹존2" />
-      <img src={Img3} alt="웹존3" />
+      <img src={Img1} width="100%" height="auto" alt="웹존1" />
+      <img src={Img2} width="100%" height="auto" alt="웹존2" />
+      <img src={Img3} width="100%" height="auto" alt="웹존3" />
       <Bottom />
     </div>
   );

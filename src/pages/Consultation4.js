@@ -16,7 +16,7 @@ const Consultation4 = () => {
         <div className={styles.margin}>
           <div className={styles.font}>
             <br />
-            <img src={Img1} alt="FTA" />
+            <img src={Img1} alt="FTA" width="100%" height="auto" />
             <br />
             <br />
             미국, EU, 아세안 등 주요 교역 상대국과 FTA(Free Trade Agreement)

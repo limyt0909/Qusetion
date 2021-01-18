@@ -18,7 +18,7 @@ const Consultation7 = () => {
         <div className={styles.margin}>
           <div className={styles.font}>
             <br />
-            <img src={Img1} alt="외환거래" />
+            <img src={Img1} alt="외환거래" width="100%" height="auto" />
             <br /> <br />
             물품의 수출·입과 해외투자에 필수적으로 수반하는 외환거래이므로
             외환거래 취급업무는 전문성과 상당한 주의가 필요한 업무입니다.
@@ -33,7 +33,8 @@ const Consultation7 = () => {
             대부분은 외환취급 담당자의 부주의에 의한 절차위반사례 등이 더 많이
             적발되고있습니다. 수출대금의 기간 내 미회수, 수입대금의 제3자 지급,
             또는 무단상계처리 등 절차위반 경우가 많이 발생하고 있습니다.
-            <br /> <br /> <br /> <img src={Img2} alt="외환거래2" />
+            <br /> <br /> <br />{' '}
+            <img src={Img2} alt="외환거래2" width="100%" height="auto" />
             <br />
           </div>
           <br />

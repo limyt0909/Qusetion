@@ -18,7 +18,7 @@ const Consultation3 = () => {
         <div className={styles.margin}>
           <div className={styles.font}>
             <br />
-            <img src={Img1} alt="행정쟁송대리" />
+            <img src={Img1} alt="행정쟁송대리" width="100%" height="auto" />
             <br />
             <br />
             <br />
@@ -35,7 +35,7 @@ const Consultation3 = () => {
             가지고 이길 수 있도록 대응할 때 비로소 실현될 수 있습니다.
             <br />
             <br />
-            <img src={Img2} alt="행정쟁송대리2" />
+            <img src={Img2} alt="행정쟁송대리2" width="100%" height="auto" />
             <br />
             <br />
             <br />

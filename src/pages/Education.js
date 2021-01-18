@@ -19,7 +19,7 @@ const Education = () => {
         <div className={styles.margin}>
           <div className={styles.font}>
             <br />
-            <img src={Img1} alt="E-learning" />
+            <img src={Img1} alt="E-learning" width="100%" height="auto" />
             <br /> <br />
             <br />
             관세법인 에이원의 E-learning 서비스는 “Trade Insight”라는 명칭으로
@@ -30,9 +30,9 @@ const Education = () => {
             현실적이며 정확한 정보를 들으실 수 있습니다. 업계의 최초로 시행된
             On-Line강의! 언제 어디서든 간편하고 쉽게 수강하실 수 있습니다.
             <br />
-            <img src={Img2} alt="e-1" />
-            <img src={Img3} alt="e-2" />
-            <img src={Img4} alt="e-3" />
+            <img src={Img2} alt="e-1" width="100%" height="auto" />
+            <img src={Img3} alt="e-2" width="100%" height="auto" />
+            <img src={Img4} alt="e-3" width="100%" height="auto" />
             <br />
             <br />
           </div>

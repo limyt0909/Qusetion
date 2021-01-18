@@ -14,7 +14,7 @@ const Aboutaone7 = () => {
         {' '}
         <br />
         <h2> 인재상</h2>
-        <img src={Img1} alt="인재상" />
+        <img src={Img1} alt="인재상" width="75%" height="auto" />
       </div>
       <Bottom />
     </div>

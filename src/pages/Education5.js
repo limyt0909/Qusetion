@@ -17,10 +17,10 @@ const Education5 = () => {
         <div className={styles.margin}>
           <br />
           <br />
-          <img src={Img1} alt="" /> <br />
-          <img src={Img2} alt="" /> <br />
+          <img src={Img1} width="100%" height="auto" alt="" /> <br />
+          <img src={Img2} width="100%" height="auto" alt="" /> <br />
           <br />
-          <img src={Img3} alt="" />
+          <img src={Img3} width="100%" height="auto" alt="" />
           <br />
           <br />
         </div>

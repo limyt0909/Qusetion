@@ -21,7 +21,7 @@ const Consultation6 = () => {
         <div className={styles.margin}>
           <div className={styles.font}>
             <br />
-            <img src={Img1} alt="AEO" />
+            <img src={Img1} alt="AEO" width="100%" height="auto" />
             <br />
             급변하는 관세무역환경의 변화와 함께 우리나라 관세청의 제도와 관리가
             고도화되어 가고 있는 추세입니다. 이에 따라 기업은 관세행정 동향의

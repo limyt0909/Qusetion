@@ -12,8 +12,8 @@ const Resources2 = () => {
       <Top />
       <div className={styles.title}>관세무역 자료실 </div>
 
-      <img src={Img1} alt="자료실" />
-      <img src={Img2} alt="자료실2" />
+      <img src={Img1} alt="자료실" width="100%" height="auto" />
+      <img src={Img2} alt="자료실2" width="100%" height="auto" />
       <br />
       <br />
 

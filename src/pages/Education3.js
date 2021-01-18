@@ -16,8 +16,8 @@ const Education3 = () => {
         <div className={styles.margin}>
           <br />
 
-          <img src={Img1} alt="1" />
-          <img src={Img2} alt="2" />
+          <img src={Img1} alt="1" width="100%" height="auto" />
+          <img src={Img2} alt="2" width="100%" height="auto" />
           <br />
           <br />
         </div>

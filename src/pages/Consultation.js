@@ -16,7 +16,7 @@ const Consultation = () => {
         <div className={styles.margin}>
           <div className={styles.font}>
             <br />
-            <img src={Img1} alt="심사대리" />
+            <img src={Img1} alt="심사대리" width="100%" height="auto" />
             <br />
             세관에서는 법인에 대하여 3년 내지 5년을 주기로 법인 심사를 실시하며,
             산업 분야별, 특정 품목별 등 특정 분야별로 무역정보를 분석하여

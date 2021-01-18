@@ -21,7 +21,7 @@ const CustomAone9 = () => {
           <div className={styles.font}>
             <br />
             <br />
-            <img src={Img1} alt="" /> <br />
+            <img src={Img1} alt="" width="100%" height="auto" /> <br />
             <br />
             <h2>Customer Satisfaction</h2>
             <br />
@@ -41,7 +41,7 @@ const CustomAone9 = () => {
             <h2>고객만족 프로그램 구성</h2>
             <br />
             <br />
-            <img src={Img3} alt="" /> <br /> <br />
+            <img src={Img3} alt="" width="100%" height="auto" /> <br /> <br />
             관세법인 에이원은 고객만족을 가장 중요하게 생각합니다. 전담 관세사의
             업무 스킬과 전문성, 응답의 효율성 등 주기적으로설문과 인터뷰를 통한
             고객 만족도평가를 평가하고, 이를 다시 프로그램에 적용하여 고객이

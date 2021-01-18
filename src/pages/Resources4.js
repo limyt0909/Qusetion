@@ -13,9 +13,9 @@ const Resources4 = () => {
     <div>
       <Top />
       <div className={styles.title}>유관기관 안내 </div>
-      <img src={Img1} alt="유관기관1" />
-      <img src={Img2} alt="유관기관2" />
-      <img src={Img3} alt="유관기관3" />
+      <img src={Img1} width="100%" height="auto" alt="유관기관1" />
+      <img src={Img2} width="100%" height="auto" alt="유관기관2" />
+      <img src={Img3} width="100%" height="auto" alt="유관기관3" />
       <Bottom />
     </div>
   );

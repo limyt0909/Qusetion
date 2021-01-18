@@ -12,8 +12,8 @@ const Resources5 = () => {
     <div>
       <Top />
       <div className={styles.title}>정운기 칼럼 </div>
-      <img src={Img1} alt="정운기칼럼" />
-      <img src={Img2} alt="정운기칼럼2" />
+      <img src={Img1} width="100%" height="auto" alt="정운기칼럼" />
+      <img src={Img2} width="100%" height="auto" alt="정운기칼럼2" />
       <Bottom />
     </div>
   );

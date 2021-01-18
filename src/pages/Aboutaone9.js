@@ -16,8 +16,8 @@ const Aboutaone9 = () => {
         <h2>복리후생</h2>
         <br />
 
-        <img src={Img1} alt="복리후생" />
-        <img src={Img2} alt="복리후생2" />
+        <img src={Img1} alt="복리후생" width="75%" height="auto" />
+        <img src={Img2} alt="복리후생2" width="75%" height="auto" />
       </div>
       <Bottom />
     </div>

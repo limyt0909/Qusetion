@@ -17,7 +17,7 @@ const Education4 = () => {
           <div className={styles.font}>
             <br />
             <br />
-            <img src={Img1} alt="" /> <br />
+            <img src={Img1} width="100%" height="auto" alt="" /> <br />
             <br />
             관세법인 에이원에서는 각 산업마다 다양한 수출입 무역과 통관 상의
             요구를 만족시키기 위해 각 산업별 단체와 협회들과 다양한 수출입 지원
@@ -29,7 +29,7 @@ const Education4 = () => {
             <br />
             <br />
             <br />
-            <img src={Img2} alt="" /> <br />
+            <img src={Img2} width="100%" height="auto" alt="" /> <br />
             <br />
             <br />
             <br />

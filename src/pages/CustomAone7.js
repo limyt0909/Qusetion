@@ -19,7 +19,7 @@ const CustomAone7 = () => {
           <div className={styles.font}>
             <br />
             <br />
-            <img src={Img1} alt="" />
+            <img src={Img1} alt="" width="100%" height="auto" />
             <br />
             <br />
             무역거래에 있어서 서류 작성은 매우 중요하며, 계약서 내용은 과세가격

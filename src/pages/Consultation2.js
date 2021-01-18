@@ -17,7 +17,7 @@ const Consultation2 = () => {
         <div className={styles.margin}>
           <div className={styles.font}>
             <br />
-            <img src={Img1} alt="조사대리" />
+            <img src={Img1} alt="조사대리" width="100%" height="auto" />
             <br />
             <br />
             세관 조사는 단순한 밀수범에 대한 조사보다는 부정 무역, 관세 포탈,
@@ -29,7 +29,7 @@ const Consultation2 = () => {
             피조사자는 관세사의 조력을 받을 수 있으며 또한 관세사는 피조사자를
             위하여 진술을 대리할 수 있도록 규정되어 있습니다.
             <br />
-            <img src={Img2} alt="조사대리2" />
+            <img src={Img2} alt="조사대리2" width="100%" height="auto" />
             <br />
             <br />
             <br />

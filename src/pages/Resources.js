@@ -15,9 +15,9 @@ const Resources = () => {
       <br />
 
       <br />
-      <img src={Img1} alt="뉴스1" />
+      <img src={Img1} alt="뉴스1" width="100%" height="auto" />
       <br />
-      <img src={Img2} alt="뉴스2" />
+      <img src={Img2} alt="뉴스2" width="100%" height="auto" />
       <Bottom />
     </div>
   );

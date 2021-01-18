@@ -36,7 +36,7 @@ const CustomAone6 = () => {
             검토하여 세관장 확인대상 물품에 대하여는 모든 요건을 갖추어 세관장
             확인을 받고 있으며, 요건 확인 전문가들이 많은 경험과 노하우를
             활용하여 도와 드리겠습니다.
-            <img src={Img1} alt="" />
+            <img src={Img1} alt="" width="100%" height="auto" />
           </div>
           <Customs />
         </div>

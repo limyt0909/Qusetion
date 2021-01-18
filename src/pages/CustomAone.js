@@ -20,7 +20,7 @@ const CustomAone = () => {
             <br />
             <br />
             <br />
-            <img src={Img1} alt="수입통관" />
+            <img src={Img1} alt="수입통관" width="100%" height="auto" />
             <br />
             <br />
             관세법인 에이원은 국내 2,000여 고객사가 수입하는 전자, 기계, 화학,
@@ -38,7 +38,7 @@ const CustomAone = () => {
             대처하도록 지원하고 있습니다.
             <br />
             <br />
-            <img src={Img2} alt="수입통관" />
+            <img src={Img2} alt="수입통관" width="100%" height="auto" />
             <br />
             <br />
             FTA확대에 따라 협정별 전문가들로 구성된 FTA전담팀에서는 통관 전에 각

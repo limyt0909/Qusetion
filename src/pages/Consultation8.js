@@ -17,7 +17,7 @@ const Consultation8 = () => {
         <div className={styles.margin}>
           <div className={styles.font}>
             <br />
-            <img src={Img1} alt="외환거래" />
+            <img src={Img1} alt="지적재산권" width="100%" height="auto" />
             <br /> <br />
             세관은 가짜상품의 수·출입을 방지하기 위하여 가짜상품의 통관심사를
             강화하고 있으며 상표권자가 세관에 상표를 등록하면 유사상품이 수입될
@@ -27,7 +27,8 @@ const Consultation8 = () => {
             경우 세관에 병행수입 업체로 등록되면 원활한 통관 절차의 이행이
             가능하고 병행수입 물품의 상표를 등록하게 되면 병행수입 물품에 세관이
             보증하는 수입 통관증지를 부착하여 진품으로 판매할 수가 있습니다.
-            <br /> <br /> <img src={Img2} alt="외환거래2" />
+            <br /> <br />{' '}
+            <img src={Img2} alt="지적재산권2" width="100%" height="auto" />
             <br />
             <br />
             <br />

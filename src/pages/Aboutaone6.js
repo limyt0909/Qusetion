@@ -27,7 +27,7 @@ const Aboutaone6 = () => {
           <br />
           <br />
           <br />
-          <img src={Img1} alt="CI" />
+          <img src={Img1} alt="CI" width="100%" height="auto" />
         </div>
       </div>
       <Bottom />

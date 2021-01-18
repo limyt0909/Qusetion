@@ -17,7 +17,7 @@ const CustomAone2 = () => {
           <div className={styles.font}>
             <br />
             <br />
-            <img src={Img1} alt="수출통관" />
+            <img src={Img1} alt="수출통관" width="100%" height="auto" />
             <br />
             <br />
             전 세계 주요 수출국을 연계하는 글로벌 수출통관과 검사 및 검역지원

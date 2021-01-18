@@ -25,11 +25,11 @@ const Aboutaone10 = () => {
             <br /> 믿고 따라오시면 더욱 스마트한 기업이 되실 수 있습니다. 최상의
             서비스로 도와드리겠습니다.
             <hr />
-            <img src={Img1} alt="1" />
-            <img src={Img2} alt="2" />
-            <img src={Img3} alt="3" />
-            <img src={Img4} alt="4" />
-            <img src={Img5} alt="5" />
+            <img src={Img1} alt="1" width="100%" height="auto" />
+            <img src={Img2} alt="2" width="100%" height="auto" />
+            <img src={Img3} alt="3" width="100%" height="auto" />
+            <img src={Img4} alt="4" width="100%" height="auto" />
+            <img src={Img5} alt="5" width="100%" height="auto" />
           </div>
         </div>
       </div>

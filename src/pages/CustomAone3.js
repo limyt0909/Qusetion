@@ -18,7 +18,7 @@ const CustomAone3 = () => {
           <div className={styles.font}>
             <br />
             <br />
-            <img src={Img1} alt="" />
+            <img src={Img1} alt="" width="100%" height="auto" />
             <br />
             <br />
             온라인 마켓의 활성화와 글로벌 라이징의 가속화로 소액 물품과 해외이사

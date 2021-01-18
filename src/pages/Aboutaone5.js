@@ -20,7 +20,7 @@ const Aboutaone5 = () => {
           최초, 최고의 자리를 늘 섭렵해 왔습니다. 짧은 기간 동안 이룩한 이러한
           성과는 뛰어난 전문 관세사를 알아보고 육성하는 훌륭한 고객사들이
           함께했기 때문에 가능했습니다.
-          <img src={Img1} alt="" />
+          <img src={Img1} alt="" width="100%" height="auto" />
         </div>
       </div>
       <br />
