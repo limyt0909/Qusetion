@@ -6,6 +6,7 @@ import Slideshow from '../Slideshow/Slideshow';
 
 import Homes1 from '../Homes/Homes1';
 import Homes2 from '../Homes/Homes2';
+import Homes3 from '../Homes/Homes3';
 
 import Img1 from '../images/home1.png';
 import Img2 from '../images/home2.png';
@@ -16,9 +17,8 @@ const Home = () => {
     <div>
       <Top />
       <Slideshow />
-
+      <Homes3 />
       <Homes2 />
-
       <Bottom />
     </div>
   );

@@ -6,32 +6,24 @@ import styles2 from './Homes.css';
 const Homes1 = () => {
   return (
     <>
-      <div id="jb-container">
-        <div id="jb-header">
-          <h1>Responsive Layout</h1>
-        </div>
-        <div id="jb-content">
-          <h2>Content</h2>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec
-            mollis nulla. Phasellus lacinia tempus mauris eu laoreet. Proin
-            gravida velit dictum dui consequat malesuada. Aenean et nibh eu
-            purus scelerisque aliquet nec non justo. Aliquam vitae aliquet
-            ipsum. Etiam condimentum varius purus ut ultricies. Mauris id odio
-            pretium, sollicitudin sapien eget, adipiscing risus.
-          </p>
-        </div>
-        <div id="jb-sidebar">
-          <h2>Sidebar</h2>
-          <ul>
-            <li>Lorem</li>
-            <li>Ipsum</li>
-            <li>Dolor</li>
-          </ul>
-        </div>
+      <title>W3.CSS Template</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1" />
+      <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css" />
+      <link
+        rel="stylesheet"
+        href="https://fonts.googleapis.com/css?family=Raleway"
+      />
 
-        <div id="jb-footer">
-          <p>footer</p>
+      <div class="bgimg w3-display-container w3-animate-opacity w3-text-black">
+        <div class="w3-display-topleft w3-padding-large w3-xlarge">Logo</div>
+        <div class="w3-display-middle">
+          <h1 class="w3-jumbo w3-animate-top">A-ONE CUSTOMS</h1>
+          <hr class="w3-border-grey" margin="auto" width="40 %" />
+          <p class="w3-large w3-center">35 days left</p>
+        </div>
+        <div class="w3-display-bottomleft w3-padding-large">
+          Powered by{' '}
+          <a href="https://www.w3schools.com/w3css/default.asp">w3.css</a>
         </div>
       </div>
     </>

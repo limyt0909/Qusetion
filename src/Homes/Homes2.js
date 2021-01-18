@@ -8,6 +8,14 @@ import Img4 from '../images/quick4.jpg';
 import Navbar from 'react-bootstrap/Navbar';
 
 import styles from './Homes.module.css';
+
+import Figure from 'react-bootstrap/Figure';
+import Image from 'react-bootstrap/Image';
+import FigureCaption from 'react-bootstrap/FigureCaption';
+
+import Container from 'react-bootstrap/Container';
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
 const Homes2 = () => {
   return (
     <>
@@ -20,67 +28,48 @@ const Homes2 = () => {
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
       <div className={styles.back}>
-        <div class="container">
-          <div class="row">
-            <div class="col-sm-3">
-              <Navbar.Brand href="/Resources2">
-                <img
-                  src={Img1}
-                  class="rounded-circle"
-                  alt="1"
-                  width="100%"
-                  height="auto !important"
-                />
-              </Navbar.Brand>
-
-              <h3>관세무역 자료실</h3>
-            </div>
-            <div class="col-sm-3">
+        <Container>
+          <Row>
+            <Col sm={3}>
               {' '}
-              <Navbar.Brand href="/Resources4">
-                <img
-                  src={Img2}
-                  class="rounded-circle"
-                  alt="2"
-                  width="100%"
-                  height="auto !important"
-                />
-              </Navbar.Brand>
-              <br />
-              <h3>유관기관 안내</h3>
-            </div>
-
-            <div class="col-sm-3">
+              <Figure>
+                <Navbar.Brand href="/Resources2">
+                  <Image src={Img1} roundedCircle width="100%" height="auto" />
+                </Navbar.Brand>
+                <Figure.Caption>관세무역 자료실</Figure.Caption>
+              </Figure>
+            </Col>
+            <Col sm={3}>
               {' '}
-              <Navbar.Brand href="/Resources2">
-                <img
-                  src={Img3}
-                  class="rounded-circle"
-                  alt="3"
-                  width="100%"
-                  height="auto !important"
-                />
-              </Navbar.Brand>
-              <br />
-              <h3>교육일정 관리</h3>
-            </div>
-
-            <div class="col-sm-3">
+              <Figure>
+                <Navbar.Brand href="/Resources4">
+                  <Image src={Img2} roundedCircle width="100%" height="auto" />
+                </Navbar.Brand>
+                <Figure.Caption>유관기관 안내</Figure.Caption>
+              </Figure>
+            </Col>
+            <Col sm={3}>
               {' '}
-              <Navbar.Brand href="/Resources">
-                <img
-                  src={Img4}
-                  class="rounded-circle"
-                  alt="4"
-                  width="100%"
-                  height="auto !important"
-                />
-              </Navbar.Brand>
-              <br />
-              <h3>관세무역 뉴스</h3>
-            </div>
-          </div>
-        </div>
+              <Figure>
+                <Navbar.Brand href="/Education2">
+                  <Image src={Img3} roundedCircle width="100%" height="auto" />
+                </Navbar.Brand>
+
+                <Figure.Caption>교육일정 관리 </Figure.Caption>
+              </Figure>
+            </Col>
+            <Col sm={3}>
+              {' '}
+              <Figure>
+                {' '}
+                <Navbar.Brand href="/Resources">
+                  <Image src={Img4} roundedCircle width="100%" height="auto" />{' '}
+                </Navbar.Brand>
+                <Figure.Caption>관세무역 뉴스</Figure.Caption>
+              </Figure>
+            </Col>
+          </Row>
+        </Container>
       </div>
     </>
   );

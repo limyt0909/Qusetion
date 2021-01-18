@@ -163,6 +163,9 @@ const Top = () => {
                 </NavDropdown.Item>
               </NavDropdown>
             </Nav>
+            <Nav.Link href="http://aone.helptrade.net/rkdk/rkr.asp">
+              Login
+            </Nav.Link>
           </Navbar.Collapse>
         </div>
       </Navbar>
