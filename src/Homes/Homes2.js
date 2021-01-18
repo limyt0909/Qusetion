@@ -28,8 +28,8 @@ const Homes2 = () => {
                   src={Img1}
                   class="rounded-circle"
                   alt="1"
-                  width="170"
-                  height="170"
+                  width="100%"
+                  height="auto !important"
                 />
               </Navbar.Brand>
 
@@ -42,8 +42,8 @@ const Homes2 = () => {
                   src={Img2}
                   class="rounded-circle"
                   alt="2"
-                  width="170"
-                  height="170"
+                  width="100%"
+                  height="auto !important"
                 />
               </Navbar.Brand>
               <br />
@@ -57,8 +57,8 @@ const Homes2 = () => {
                   src={Img3}
                   class="rounded-circle"
                   alt="3"
-                  width="170"
-                  height="170"
+                  width="100%"
+                  height="auto !important"
                 />
               </Navbar.Brand>
               <br />
@@ -72,8 +72,8 @@ const Homes2 = () => {
                   src={Img4}
                   class="rounded-circle"
                   alt="4"
-                  width="170"
-                  height="170"
+                  width="100%"
+                  height="auto !important"
                 />
               </Navbar.Brand>
               <br />

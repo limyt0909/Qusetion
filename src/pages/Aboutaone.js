@@ -22,7 +22,7 @@ const Aboutaone = () => {
       <br />
       <div class="container">
         <div className={styles.margin}>
-          <img src={Img1} alt="인사말1" />
+          <img src={Img1} alt="인사말1" width="100%" height="auto !important" />
 
           <br />
           <br />
@@ -32,7 +32,12 @@ const Aboutaone = () => {
               <div class="col-sm-4">
                 {' '}
                 <div className={styles.img2}>
-                  <img src={Img2} alt="인사말2" />
+                  <img
+                    src={Img2}
+                    alt="인사말2"
+                    width="100%"
+                    height="auto !important"
+                  />
                 </div>
               </div>
               <div class="col-sm-6">
@@ -68,34 +73,17 @@ const Aboutaone = () => {
               <br /> <br />
               <div class="row">
                 <div class="col-sm-4">
-                  <img src={Img3} width="250" height="200" alt="인사말3" />{' '}
+                  <img src={Img3} width="75%" height="auto" alt="인사말3" />{' '}
                 </div>
                 <div class="col-sm-4">
-                  <img src={Img4} width="250" height="200" alt="인사말4" />{' '}
+                  <img src={Img4} width="75%" height="auto" alt="인사말4" />{' '}
                 </div>{' '}
                 <div class="col-sm-4">
-                  <img src={Img5} width="250" height="200" alt="인사말5" />
+                  <img src={Img5} width="75%" height="auto" alt="인사말5" />
                 </div>
               </div>
             </div>
           </div>
-
-          <Container>
-            <Row>
-              <Col sm={4}>
-                {' '}
-                <img src={Img3} width="250" height="200" alt="인사말3" />{' '}
-              </Col>
-              <Col sm={4}>
-                {' '}
-                <img src={Img4} width="250" height="200" alt="인사말3" />{' '}
-              </Col>
-              <Col sm={4}>
-                {' '}
-                <img src={Img5} width="250" height="200" alt="인사말3" />{' '}
-              </Col>
-            </Row>
-          </Container>
         </div>{' '}
         <br />
         <br />

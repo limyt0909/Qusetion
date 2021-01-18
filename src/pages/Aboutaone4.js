@@ -22,7 +22,7 @@ const Aboutaone4 = () => {
         <div className={styles.font}>
           <div class="container">
             <h2>경영방침</h2> <br />
-            <img src={Img1} alt="경영방침" />
+            <img src={Img1} alt="경영방침" width="75%" height="auto" />
             <br />
             <div class="row">
               <div class="col-sm-9">
@@ -39,7 +39,7 @@ const Aboutaone4 = () => {
             </div>
             <div class="row">
               <div class="col-sm-4.8">
-                <img src={Img3} alt="윤리" />
+                <img src={Img3} alt="윤리" width="90%" height="auto" />
               </div>
               <div class="col-sm-5">
                 <br />

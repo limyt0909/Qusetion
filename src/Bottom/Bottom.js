@@ -32,7 +32,13 @@ const Bottom = () => {
             </div>
             <div class="col-3">
               {' '}
-              <img src={Img3} alt="가족친화우수기업" />
+              <img
+                src={Img3}
+                alt="가족친화우수기업"
+                max-width="100%"
+                width="auto !important"
+                height="auto !important"
+              />
             </div>
           </div>
         </div>

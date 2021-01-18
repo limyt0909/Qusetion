@@ -14,7 +14,7 @@ const Aboutaone2 = () => {
         {' '}
         <br />
         <h2>조직도</h2>
-        <img src={Img1} alt="조지도" />
+        <img src={Img1} alt="조지도" width="100%" height="auto" />
       </div>
       <br /> <br />
       <Bottom />

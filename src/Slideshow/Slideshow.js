@@ -14,7 +14,7 @@ const Slideshow = () => {
           src={slide1}
           alt="aone2?800x400?text=Second slide&bg=282c34"
         />
-        <Carousel.Caption>text</Carousel.Caption>
+        <Carousel.Caption>-</Carousel.Caption>
       </Carousel.Item>
 
       <Carousel.Item interval={1000}>
@@ -24,7 +24,7 @@ const Slideshow = () => {
           alt="aone1?800x400?text=Second slide&bg=282c34"
         />
 
-        <Carousel.Caption>text</Carousel.Caption>
+        <Carousel.Caption>-</Carousel.Caption>
       </Carousel.Item>
 
       <Carousel.Item interval={1000}>
@@ -33,7 +33,7 @@ const Slideshow = () => {
           src={slide3}
           alt="aone1?800x400?text=Second slide&bg=282c34"
         />
-        <Carousel.Caption>text</Carousel.Caption>
+        <Carousel.Caption>-</Carousel.Caption>
       </Carousel.Item>
     </Carousel>
   );
