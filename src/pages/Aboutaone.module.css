@@ -73,3 +73,26 @@
   margin: 0 auto;
   text-align: center;
 }
+
+/*본문 글씨 이용*/
+.global {
+  color: #48afdb;
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 15pt;
+}
+
+.global2 {
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 13pt;
+}
+
+.education {
+  color: #48afdb;
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 15pt;
+}
+
+.education2 {
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 13pt;
+}

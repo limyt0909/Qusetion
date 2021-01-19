@@ -14,9 +14,9 @@ const Aboutaone8 = () => {
         <h2>인사제도</h2>
         <br />
         <br />
-        <img src={Img1} alt="인사제도1" width="100%" height="auto" />
+        <img src={Img1} alt="인사제도1" width="95%" height="auto" />
         <br />
-        <img src={Img2} alt="인사제도2" width="100%" height="auto" />
+        <img src={Img2} alt="인사제도2" width="95%" height="auto" />
       </div>{' '}
       <br />
       <Bottom />

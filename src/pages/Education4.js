@@ -12,7 +12,7 @@ const Education4 = () => {
     <div>
       <Top />
       <div className={styles.title}>산업별 네트워크 </div>
-      <div class="container">
+      <div class="w3-container w3-content w3-padding-32">
         <div className={styles.margin}>
           <div className={styles.font}>
             <br />
@@ -29,7 +29,7 @@ const Education4 = () => {
             <br />
             <br />
             <br />
-            <img src={Img2} width="100%" height="auto" alt="" /> <br />
+            <img src={Img2} width="105%" height="auto" alt="" /> <br />
             <br />
             <br />
             <br />

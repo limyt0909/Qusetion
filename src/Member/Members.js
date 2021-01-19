@@ -123,7 +123,7 @@ const Members = () => {
         <div class={styles}>
           <div class="row">
             <div class="card-group">
-              <div class="col-3">
+              <div class="col-xs-6 col-sm-3">
                 <div class="card">
                   <div class="card-header">
                     <img src={Img2_1} alt="Profile Image" class="profile-img" />
@@ -138,7 +138,7 @@ const Members = () => {
                 </div>
               </div>
 
-              <div class="col-3">
+              <div class="col-xs-6 col-sm-3">
                 <div class="card">
                   <div class="card-header">
                     <img src={Img2_3} alt="Profile Image" class="profile-img" />
@@ -153,7 +153,7 @@ const Members = () => {
                 </div>
               </div>
 
-              <div class="col-3">
+              <div class="col-xs-6 col-sm-3">
                 <div class="card">
                   <div class="card-header">
                     <img src={Img2_4} alt="Profile Image" class="profile-img" />
@@ -167,7 +167,7 @@ const Members = () => {
                 </div>
               </div>
 
-              <div class="col-3">
+              <div class="col-xs-6 col-sm-3">
                 <div class="card">
                   <div class="card-header">
                     <img src={Img2_5} alt="Profile Image" class="profile-img" />
@@ -193,7 +193,7 @@ const Members = () => {
         <div class={styles}>
           <div class="row">
             <div class="card-group">
-              <div class="col-3">
+              <div class="col-xs-6 col-sm-3">
                 <div class="card">
                   <div class="card-header">
                     <img src={Img3_1} alt="Profile Image" class="profile-img" />
@@ -208,7 +208,7 @@ const Members = () => {
                 </div>
               </div>
 
-              <div class="col-3">
+              <div class="col-xs-6 col-sm-3">
                 <div class="card">
                   <div class="card-header">
                     <img src={Img3_2} alt="Profile Image" class="profile-img" />
@@ -223,7 +223,7 @@ const Members = () => {
                 </div>
               </div>
 
-              <div class="col-3">
+              <div class="col-xs-6 col-sm-3">
                 <div class="card">
                   <div class="card-header">
                     <img src={Img3_3} alt="Profile Image" class="profile-img" />
@@ -237,7 +237,7 @@ const Members = () => {
                 </div>
               </div>
 
-              <div class="col-3">
+              <div class="col-xs-6 col-sm-3">
                 <div class="card">
                   <div class="card-header">
                     <img src={Img3_4} alt="Profile Image" class="profile-img" />
@@ -259,7 +259,7 @@ const Members = () => {
         <div class={styles}>
           <div class="row">
             <div class="card-group">
-              <div class="col-3">
+              <div class="col-xs-6 col-sm-3">
                 <div class="card">
                   <div class="card-header">
                     <img src={Img3_5} alt="Profile Image" class="profile-img" />
@@ -274,7 +274,7 @@ const Members = () => {
                 </div>
               </div>
               　　　　　　　　
-              <div class="col-3">
+              <div class="col-xs-6 col-sm-3">
                 <div class="card">
                   <div class="card-header">
                     <img src={Img3_6} alt="Profile Image" class="profile-img" />
@@ -300,7 +300,7 @@ const Members = () => {
         <div class={styles}>
           <div class="row">
             <div class="card-group">
-              <div class="col-3">
+              <div class="col-xs-6 col-sm-3">
                 <div class="card">
                   <div class="card-header">
                     <img src={Img4_1} alt="Profile Image" class="profile-img" />
@@ -315,7 +315,7 @@ const Members = () => {
                 </div>
               </div>
 
-              <div class="col-3">
+              <div class="col-xs-6 col-sm-3">
                 <div class="card">
                   <div class="card-header">
                     <img src={Img4_2} alt="Profile Image" class="profile-img" />
@@ -330,7 +330,7 @@ const Members = () => {
                 </div>
               </div>
 
-              <div class="col-3">
+              <div class="col-xs-6 col-sm-3">
                 <div class="card">
                   <div class="card-header">
                     <img src={Img4_3} alt="Profile Image" class="profile-img" />
@@ -343,7 +343,7 @@ const Members = () => {
                   </div>
                 </div>
               </div>
-              <div class="col-3">
+              <div class="col-xs-6 col-sm-3">
                 <div class="card">
                   <div class="card-header">
                     <img src={Img4_4} alt="Profile Image" class="profile-img" />
@@ -367,7 +367,7 @@ const Members = () => {
         <div class={styles}>
           <div class="row">
             <div class="card-group">
-              <div class="col-3">
+              <div class="col-xs-6 col-sm-3">
                 <div class="card">
                   <div class="card-header">
                     <img src={Img5_1} alt="Profile Image" class="profile-img" />
@@ -382,7 +382,7 @@ const Members = () => {
                 </div>
               </div>
               　　　　　　　
-              <div class="col-3">
+              <div class="col-xs-6 col-sm-3">
                 <div class="card">
                   <div class="card-header">
                     <img src={Img5_2} alt="Profile Image" class="profile-img" />
@@ -408,7 +408,7 @@ const Members = () => {
         <div class={styles}>
           <div class="row">
             <div class="card-group">
-              <div class="col-3">
+              <div class="col-xs-6 col-sm-3">
                 <div class="card">
                   <div class="card-header">
                     <img src={Img1_3} alt="Profile Image" class="profile-img" />
@@ -423,7 +423,7 @@ const Members = () => {
                 </div>
               </div>
               　　　　　　　
-              <div class="col-3">
+              <div class="col-xs-6 col-sm-3">
                 <div class="card">
                   <div class="card-header">
                     <img src={Img6_1} alt="Profile Image" class="profile-img" />
