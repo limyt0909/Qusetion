@@ -11,6 +11,7 @@ const Aboutaone8 = () => {
       <Top />
       <div className={styles.title}>인사제도</div>
       <div class="w3-container w3-content w3-padding-32">
+        <h2>인사제도</h2>
         <br />
         <br />
         <img src={Img1} alt="인사제도1" width="100%" height="auto" />

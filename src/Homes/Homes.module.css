@@ -26,3 +26,12 @@
 .quick {
   text-align: right;
 }
+
+.circle {
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 23px;
+}
+.circle2 {
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 12px;
+}
