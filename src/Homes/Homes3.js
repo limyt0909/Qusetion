@@ -23,7 +23,7 @@ const Quick = () => {
           Korea, including import and export customs clearance, quarantine, FTA
           (Free Trade Agreement), AEO (Authorized Economic Operator) consulting,
           and review and dispute. It is the best company in the industry, in
-          name and reality, with the No. 1 contest winning record. A-One ㅛ
+          name and reality, with the No. 1 contest winning record. A-One
           acquired AEO certification for the first time in the same industry,
           and has since acquired AA certification in a more advanced form.
         </p>
