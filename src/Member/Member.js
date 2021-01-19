@@ -34,7 +34,7 @@ const Member = () => {
             <hr />
           </div>
           <div class="col-sm-6">
-            <img src={Img11} className={styles.torso} alt="정운기회장님" />
+            <img src={Img11} width="75%" height="auto" alt="정운기회장님" />
           </div>
           <div class="col-sm-3">
             <div className={styles.map}>정운기 회장</div>
@@ -89,7 +89,7 @@ const Member = () => {
             <hr />
           </div>
           <div class="col-sm-6">
-            <img src={Img12} className={styles.torso} alt="황재호 부대표" />
+            <img src={Img12} width="75%" height="auto" alt="황재호 부대표" />
           </div>
           <div class="col-sm-3">
             <div className={styles.map}>황재호 부대표</div>
@@ -106,7 +106,7 @@ const Member = () => {
             <hr />
           </div>
           <div class="col-sm-6">
-            <img src={Img15} className={styles.torso} alt="정철 부대표" />
+            <img src={Img15} width="75%" height="auto" alt="정철 부대표" />
           </div>
           <div class="col-sm-3">
             <div className={styles.map}>정철 부대표</div>
@@ -143,7 +143,7 @@ const Member = () => {
             <hr />
           </div>
           <div class="col-sm-6">
-            <img src={Img14} className={styles.torso} alt="박찬욱 부대표" />
+            <img src={Img14} width="75%" height="auto" alt="박찬욱 부대표" />
           </div>
           <div class="col-sm-3">
             <div className={styles.map}>박찬욱 부대표</div>
@@ -176,7 +176,7 @@ const Member = () => {
             <hr />
           </div>
           <div class="col-sm-6">
-            <img src={Img13} className={styles.torso} alt="이성욱 부대표" />
+            <img src={Img13} width="75%" height="auto" alt="이성욱 부대표" />
           </div>
           <div class="col-sm-3">
             <div className={styles.map}>이성욱 부대표</div>

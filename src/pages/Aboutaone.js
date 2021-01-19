@@ -21,7 +21,7 @@ const Aboutaone = () => {
       <div className={styles.title}> 인 사 말 </div>
       <br />
       <div class="w3-container w3-content w3-padding-64">
-        <img src={Img1} alt="인사말1" width="100%" height="auto !important" />
+        <img src={Img1} alt="인사말1" width="100%" height="auto" />
 
         <br />
         <br />
@@ -31,12 +31,7 @@ const Aboutaone = () => {
             <div class="col-sm-4">
               {' '}
               <div className={styles.img2}>
-                <img
-                  src={Img2}
-                  alt="인사말2"
-                  width="90%"
-                  height="auto !important"
-                />
+                <img src={Img2} alt="인사말2" width="90%" height="auto" />
               </div>
             </div>
             <div class="col-sm-8">
