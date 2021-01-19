@@ -9,10 +9,9 @@ const Aboutaone6 = () => {
     <div>
       <Top />
       <div className={styles.title}> C I (Corporation Identity System)</div>
-      <div class="container">
+      <div class="w3-container w3-content w3-padding-32">
         <div className={styles.font}>
           {' '}
-          <br />
           <h2> CI (Corporation Identity System)</h2>
           에이원의 로고는 전체적으로 곡선을 이용하여 제작이 되었습니다.
           로고에서의 곡선 부분은 유선형의 부드러운 곡선형태의 조합은 아름다움을

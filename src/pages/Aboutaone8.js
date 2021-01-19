@@ -10,7 +10,7 @@ const Aboutaone8 = () => {
     <div>
       <Top />
       <div className={styles.title}>인사제도</div>
-      <div class="container">
+      <div class="w3-container w3-content w3-padding-32">
         <br />
         <br />
         <img src={Img1} alt="인사제도1" width="100%" height="auto" />

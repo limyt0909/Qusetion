@@ -10,11 +10,11 @@ const Aboutaone7 = () => {
       <Top />
       <div className={styles.title}>인재상</div>
 
-      <div class="container">
+      <div class="w3-container w3-content w3-padding-32">
         {' '}
         <br />
         <h2> 인재상</h2>
-        <img src={Img1} alt="인재상" width="75%" height="auto" />
+        <img src={Img1} alt="인재상" width="100%" height="auto" />
       </div>
       <Bottom />
     </div>

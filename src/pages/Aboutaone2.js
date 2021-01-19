@@ -9,10 +9,8 @@ const Aboutaone2 = () => {
     <div>
       <Top />
       <div className={styles.title}> 조 직 도 </div>
-      <br />
-      <div class="container">
+      <div class="w3-container w3-content w3-padding-64">
         {' '}
-        <br />
         <h2>조직도</h2>
         <img src={Img1} alt="조지도" width="100%" height="auto" />
       </div>

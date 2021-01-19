@@ -27,10 +27,7 @@ const Member = () => {
       <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
       <div className={styles.title}>구성원 소개</div>
-      <div class="container">
-        <br />
-        <br />
-        <br />
+      <div class="w3-container w3-content w3-padding-32">
         <h2>임원진 소개</h2>
         <div class="row">
           <div class="col-12">

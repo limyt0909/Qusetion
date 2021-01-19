@@ -23,7 +23,7 @@ const Quick = () => {
           Korea, including import and export customs clearance, quarantine, FTA
           (Free Trade Agreement), AEO (Authorized Economic Operator) consulting,
           and review and dispute. It is the best company in the industry, in
-          name and reality, with the No. 1 contest winning record. A-One
+          name and reality, with the No. 1 contest winning record. A-One ㅛ
           acquired AEO certification for the first time in the same industry,
           and has since acquired AA certification in a more advanced form.
         </p>
@@ -32,7 +32,7 @@ const Quick = () => {
             <a href="/Resources2">
               <img
                 src={Img1}
-                class="w3-round w3-margin-bottom"
+                class="w3-circle w3-margin-bottom"
                 alt="Random Name"
                 width="60%"
               />{' '}
@@ -43,7 +43,7 @@ const Quick = () => {
             <a href="/Resources4">
               <img
                 src={Img2}
-                class="w3-round w3-margin-bottom"
+                class="w3-circle w3-margin-bottom"
                 alt="Random Name"
                 width="60%"
               />
@@ -52,7 +52,12 @@ const Quick = () => {
           </div>
           <div class="w3-third">
             <a href="/Resources">
-              <img src={Img4} class="w3-round" alt="Random Name" width="60%" />
+              <img
+                src={Img4}
+                class="w3-circle w3-margin-bottom"
+                alt="Random Name"
+                width="60%"
+              />
             </a>{' '}
             <p>관세무역 뉴스</p>
           </div>
