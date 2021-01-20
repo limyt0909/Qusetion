@@ -30,7 +30,7 @@ import Img6_1 from '../images/신민화1.jpg';
 
 import Img4 from '../images/message.png';
 
-import styles from './member.css';
+import styles from './Member.module.css';
 
 const Members = () => {
   return (
