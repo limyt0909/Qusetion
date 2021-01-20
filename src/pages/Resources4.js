@@ -14,7 +14,7 @@ const Resources4 = () => {
       <Top />
       <div className={styles.title}>유관기관 안내 </div>
       <div class="w3-container w3-content w3-padding-32">
-        <img src={Img1} alt="유관기관" /> <br />
+        <img src={Img1} width="100%" height="auto" alt="유관기관" /> <br />
         <br />
         <div class="row">
           <div class="col-6">
