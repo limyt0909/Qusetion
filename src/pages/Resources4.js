@@ -2,7 +2,7 @@ import React from 'react';
 import Top from '../Top/Top';
 import Bottom from '../Bottom/Bottom';
 
-import Img1 from '../images/유관기관.png';
+import Img1 from '../images/유관기관.jpg';
 import Img2 from '../images/유관기관2.png';
 import Img3 from '../images/유관기관3.png';
 
@@ -13,9 +13,272 @@ const Resources4 = () => {
     <div>
       <Top />
       <div className={styles.title}>유관기관 안내 </div>
-      <img src={Img1} width="100%" height="auto" alt="유관기관1" />
-      <img src={Img2} width="100%" height="auto" alt="유관기관2" />
-      <img src={Img3} width="100%" height="auto" alt="유관기관3" />
+      <div class="w3-container w3-content w3-padding-32">
+        <img src={Img1} alt="유관기관" /> <br />
+        <br />
+        <div class="row">
+          <div class="col-6">
+            <div class="text">
+              <h6>국가기관</h6>
+            </div>
+            <ul class="jobs">
+              <li>
+                <a href="http://www.mosf.go.kr" target="_blank">
+                  기획재정부
+                </a>
+              </li>
+              <li>
+                <a href="http://www.krima.or.kr" target="_blank">
+                  평가연구원
+                </a>
+              </li>
+              <li>
+                <a href="http://www.motie.go.kr" target="_blank">
+                  산업통상자원부
+                </a>
+              </li>
+              <li>
+                <a href="http://www.customs.go.kr" target="_blank">
+                  관세청
+                </a>
+              </li>
+              <li>
+                <a href="http://www.korcham.net" target="_blank">
+                  대한상공회의소
+                </a>
+              </li>
+              <li>
+                <a href="http://www.kctdi.or.kr" target="_blank">
+                  한국관세무역개발원
+                </a>
+              </li>
+              <li>
+                <a href="http://www.mof.go.kr" target="_blank">
+                  해양수산부
+                </a>
+              </li>
+              <li>
+                <a href="http://www.nts.go.kr" target="_blank">
+                  국세청
+                </a>
+              </li>
+              <li>
+                <a href="http://www.smba.go.kr" target="_blank">
+                  중소벤처기업부
+                </a>
+              </li>
+              <li>
+                <a href="http://www.better.go.kr" target="_blank">
+                  규제개혁위원회
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div class="col-6">
+            {' '}
+            <h6>본부세관</h6>
+            <ul class="jobs">
+              <li>
+                <a href="https://www.customs.go.kr/seoul/" target="_blank">
+                  서울본부세관
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://www.customs.go.kr/kcshome/site/index.do?layoutSiteId=kimpo"
+                  target="_blank"
+                >
+                  김포공항세관
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://www.customs.go.kr/kcshome/site/index.do?layoutSiteId=incheon"
+                  target="_blank"
+                >
+                  인천본부세관
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://www.customs.go.kr/kcshome/site/index.do?layoutSiteId=airport_post"
+                  target="_blank"
+                >
+                  인천공항국제우편세관
+                </a>
+              </li>
+              <li>
+                <a href="https://www.customs.go.kr/gwangju/" target="_blank">
+                  광주본부세관
+                </a>
+              </li>
+              <li>
+                <a href="https://www.customs.go.kr/deagu/" target="_blank">
+                  대구본부세관
+                </a>
+              </li>
+              <li>
+                <a href="https://www.customs.go.kr/busan/" target="_blank">
+                  부산본부세관
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div class="col-12">
+            <hr />
+          </div>
+
+          <div class="col-6">
+            {' '}
+            <h6>협회</h6>
+            <ul class="jobs">
+              <li>
+                <a href="http://www.kcba.or.kr" target="_blank">
+                  한국관세사회
+                </a>
+              </li>
+              <li>
+                <a href="http://www.kita.net" target="_blank">
+                  한국무역협회
+                </a>
+              </li>
+              <li>
+                <a href="http://www.krsc.or.kr" target="_blank">
+                  한국관세학회
+                </a>
+              </li>
+              <li>
+                <a href="http://www.kotra.or.kr" target="_blank">
+                  대한무역투자진흥공사
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div class="col-6">
+            {' '}
+            <h6>검역</h6>
+            <ul class="jobs">
+              <li>
+                <a href="http://www.qia.go.kr" target="_blank">
+                  농림축산검역본부
+                </a>
+              </li>
+              <li>
+                <a href="http://www.mafra.go.kr" target="_blank">
+                  농림축산식품부
+                </a>
+              </li>
+              <li>
+                <a href="http://www.mfds.go.kr" target="_blank">
+                  식품의약품안전처
+                </a>
+              </li>
+              <li>
+                <a href="http://blog.naver.com/pridenvrqs" target="_blank">
+                  국립수의과학검역원
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div class="col-12">
+            <hr />
+          </div>
+
+          <div class="col-6">
+            <h6>AEO</h6>
+            <ul class="jobs">
+              <li>
+                <a href="http://www.aeo.or.kr" target="_blank">
+                  한국AEO진흥협회
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div class="col-6">
+            <h6>FTA</h6>
+            <ul class="jobs">
+              <li>
+                <a href="https://www.fta.go.kr/main/" target="_blank">
+                  FTA 종합지원 포털
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div class="col-12">
+            <hr />
+          </div>
+          <div class="col-6">
+            {' '}
+            <h6>법률</h6>
+            <ul class="jobs">
+              <li>
+                <a href="http://gwanbo.mois.go.kr" target="_blank">
+                  대한민국전자관보
+                </a>
+              </li>
+              <li>
+                <a href="http://www.moleg.go.kr" target="_blank">
+                  법제처
+                </a>
+              </li>
+              <li>
+                <a href="http://www.law.go.kr" target="_blank">
+                  법제처 국가법령정보센터
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div class="col-6">
+            <h6>정보</h6>
+            <ul class="jobs">
+              <li>
+                <a href="http://taxtimes.co.kr" target="_blank">
+                  세정신문
+                </a>
+              </li>
+              <li>
+                <a href="http://www.joseilbo.com" target="_blank">
+                  조세일보
+                </a>
+              </li>
+              <li>
+                <a href="http://www.clhs.co.kr" target="_blank">
+                  씨엘HS
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div class="col-12">
+            <hr />
+          </div>
+
+          <div class="col-6">
+            <h6>국제기관</h6>
+            <ul class="jobs">
+              <li>
+                <a href="http://www.wcoomd.org" target="_blank">
+                  세계관세기구
+                </a>
+              </li>
+              <li>
+                <a href="http://www.tiaca.org" target="_blank">
+                  국제항공화물협회
+                </a>
+              </li>
+              <li>
+                <a href="http://www.icao.int" target="_blank">
+                  국제민간항공기구 ICAO
+                </a>
+              </li>
+              <li>
+                <a href="http://www.wto.org" target="_blank">
+                  세계무역기구
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
       <Bottom />
     </div>
   );

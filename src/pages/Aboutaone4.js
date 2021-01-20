@@ -21,7 +21,6 @@ const Aboutaone4 = () => {
 
       <div className={styles.font}>
         <div class="w3-container w3-content w3-padding-32">
-          <h2>경영방침</h2> <br />
           <img src={Img1} alt="경영방침" width="90%" height="auto" />
           <br />
           관세무역 에이원은 국제무역거래의 일원으로 테러방지라는 국제적 물류관리

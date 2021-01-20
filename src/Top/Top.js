@@ -10,33 +10,6 @@ import Img3 from '../images/blackmark3.png';
 const Top = () => {
   return (
     <>
-      <link
-        rel="stylesheet"
-        href="https://www.w3schools.com/w3css/4/w3.css"
-      ></link>
-
-      <div class="w3-top">
-        <div class="w3-bar w3-white w3-wide w3-padding w3-card">
-          <a href="/">
-            {' '}
-            <img src={Img3} alt="blackmark3" />{' '}
-          </a>
-
-          <div class="w3-right w3-hide-small">
-            <a
-              href="http://aone.helptrade.net/rkdk/rkr.asp"
-              class="w3-bar-item w3-button"
-            >
-              Login
-            </a>
-          </div>
-        </div>
-      </div>
-
-      <br />
-      <br />
-      <br />
-
       <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
         <Navbar.Brand href="/">
           　 　
