@@ -1,51 +1,3 @@
-#jb-container {
-  width: 940px;
-  margin: 10px auto;
-  padding: 20px;
-  border: 1px solid #bcbcbc;
-}
-
-#jb-header {
-  padding: 20px;
-  margin-bottom: 20px;
-  border: 1px solid #bcbcbc;
-}
-
-#jb-content {
-  width: 580px;
-  padding: 20px;
-  margin-bottom: 20px;
-  float: left;
-  border: 1px solid #bcbcbc;
-}
-#jb-sidebar {
-  width: 260px;
-  padding: 20px;
-  margin-bottom: 20px;
-  float: right;
-  border: 1px solid #bcbcbc;
-}
-
-#jb-footer {
-  clear: both;
-  padding: 20px;
-  border: 1px solid #bcbcbc;
-}
-
-@media (max-width: 480px) {
-  #jb-container {
-    width: auto;
-  }
-  #jb-content {
-    float: none;
-    width: auto;
-  }
-  #jb-sidebar {
-    float: none;
-    width: auto;
-  }
-}
-
 /* 공통 */
 .clear_v2 {
   *zoom: 1;
@@ -72,7 +24,7 @@
   margin-top: -5px;
   padding-bottom: 30px;
   float: left;
-  width: 50px;
+  width: 150px;
   font-size: 30px;
   line-height: 32px;
   color: #27326c;
@@ -84,6 +36,7 @@
   display: inline;
   background: url(sub/his_line.gif) repeat-y 30px 0;
 }
+
 .historycnt .historylist .cnt.last {
   padding-bottom: 0;
 }
