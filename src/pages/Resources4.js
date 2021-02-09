@@ -23,54 +23,34 @@ const Resources4 = () => {
             </div>
             <ul class="jobs">
               <li>
-                <a href="http://www.mosf.go.kr" target="_blank">
-                  기획재정부
-                </a>
+                <a href="http://www.mosf.go.kr">기획재정부</a>
               </li>
               <li>
-                <a href="http://www.krima.or.kr" target="_blank">
-                  평가연구원
-                </a>
+                <a href="http://www.krima.or.kr">평가연구원</a>
               </li>
               <li>
-                <a href="http://www.motie.go.kr" target="_blank">
-                  산업통상자원부
-                </a>
+                <a href="http://www.motie.go.kr">산업통상자원부</a>
               </li>
               <li>
-                <a href="http://www.customs.go.kr" target="_blank">
-                  관세청
-                </a>
+                <a href="http://www.customs.go.kr">관세청</a>
               </li>
               <li>
-                <a href="http://www.korcham.net" target="_blank">
-                  대한상공회의소
-                </a>
+                <a href="http://www.korcham.net">대한상공회의소</a>
               </li>
               <li>
-                <a href="http://www.kctdi.or.kr" target="_blank">
-                  한국관세무역개발원
-                </a>
+                <a href="http://www.kctdi.or.kr">한국관세무역개발원</a>
               </li>
               <li>
-                <a href="http://www.mof.go.kr" target="_blank">
-                  해양수산부
-                </a>
+                <a href="http://www.mof.go.kr">해양수산부</a>
               </li>
               <li>
-                <a href="http://www.nts.go.kr" target="_blank">
-                  국세청
-                </a>
+                <a href="http://www.nts.go.kr">국세청</a>
               </li>
               <li>
-                <a href="http://www.smba.go.kr" target="_blank">
-                  중소벤처기업부
-                </a>
+                <a href="http://www.smba.go.kr">중소벤처기업부</a>
               </li>
               <li>
-                <a href="http://www.better.go.kr" target="_blank">
-                  규제개혁위원회
-                </a>
+                <a href="http://www.better.go.kr">규제개혁위원회</a>
               </li>
             </ul>
           </div>
@@ -79,9 +59,7 @@ const Resources4 = () => {
             <h6>본부세관</h6>
             <ul class="jobs">
               <li>
-                <a href="https://www.customs.go.kr/seoul/" target="_blank">
-                  서울본부세관
-                </a>
+                <a href="https://www.customs.go.kr/seoul/">서울본부세관</a>
               </li>
               <li>
                 <a

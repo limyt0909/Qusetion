@@ -101,3 +101,9 @@
   max-width: 100%;
   height: auto;
 }
+
+.history {
+  color: #7e7e7e;
+  font-size: 14px;
+  font-family: 'Nanum Gothic', sans-serif;
+}
