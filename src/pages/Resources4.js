@@ -62,43 +62,28 @@ const Resources4 = () => {
                 <a href="https://www.customs.go.kr/seoul/">서울본부세관</a>
               </li>
               <li>
-                <a
-                  href="https://www.customs.go.kr/kcshome/site/index.do?layoutSiteId=kimpo"
-                  target="_blank"
-                >
+                <a href="https://www.customs.go.kr/kcshome/site/index.do?layoutSiteId=kimpo">
                   김포공항세관
                 </a>
               </li>
               <li>
-                <a
-                  href="https://www.customs.go.kr/kcshome/site/index.do?layoutSiteId=incheon"
-                  target="_blank"
-                >
+                <a href="https://www.customs.go.kr/kcshome/site/index.do?layoutSiteId=incheon">
                   인천본부세관
                 </a>
               </li>
               <li>
-                <a
-                  href="https://www.customs.go.kr/kcshome/site/index.do?layoutSiteId=airport_post"
-                  target="_blank"
-                >
+                <a href="https://www.customs.go.kr/kcshome/site/index.do?layoutSiteId=airport_post">
                   인천공항국제우편세관
                 </a>
               </li>
               <li>
-                <a href="https://www.customs.go.kr/gwangju/" target="_blank">
-                  광주본부세관
-                </a>
+                <a href="https://www.customs.go.kr/gwangju/">광주본부세관</a>
               </li>
               <li>
-                <a href="https://www.customs.go.kr/deagu/" target="_blank">
-                  대구본부세관
-                </a>
+                <a href="https://www.customs.go.kr/deagu/">대구본부세관</a>
               </li>
               <li>
-                <a href="https://www.customs.go.kr/busan/" target="_blank">
-                  부산본부세관
-                </a>
+                <a href="https://www.customs.go.kr/busan/">부산본부세관</a>
               </li>
             </ul>
           </div>
@@ -111,24 +96,16 @@ const Resources4 = () => {
             <h6>협회</h6>
             <ul class="jobs">
               <li>
-                <a href="http://www.kcba.or.kr" target="_blank">
-                  한국관세사회
-                </a>
+                <a href="http://www.kcba.or.kr">한국관세사회</a>
               </li>
               <li>
-                <a href="http://www.kita.net" target="_blank">
-                  한국무역협회
-                </a>
+                <a href="http://www.kita.net">한국무역협회</a>
               </li>
               <li>
-                <a href="http://www.krsc.or.kr" target="_blank">
-                  한국관세학회
-                </a>
+                <a href="http://www.krsc.or.kr">한국관세학회</a>
               </li>
               <li>
-                <a href="http://www.kotra.or.kr" target="_blank">
-                  대한무역투자진흥공사
-                </a>
+                <a href="http://www.kotra.or.kr">대한무역투자진흥공사</a>
               </li>
             </ul>
           </div>
@@ -137,22 +114,16 @@ const Resources4 = () => {
             <h6>검역</h6>
             <ul class="jobs">
               <li>
-                <a href="http://www.qia.go.kr" target="_blank">
-                  농림축산검역본부
-                </a>
+                <a href="http://www.qia.go.kr">농림축산검역본부</a>
               </li>
               <li>
-                <a href="http://www.mafra.go.kr" target="_blank">
-                  농림축산식품부
-                </a>
+                <a href="http://www.mafra.go.kr">농림축산식품부</a>
               </li>
               <li>
-                <a href="http://www.mfds.go.kr" target="_blank">
-                  식품의약품안전처
-                </a>
+                <a href="http://www.mfds.go.kr">식품의약품안전처</a>
               </li>
               <li>
-                <a href="http://blog.naver.com/pridenvrqs" target="_blank">
+                <a href="http://blog.naver.com/pridenvrqs">
                   국립수의과학검역원
                 </a>
               </li>
@@ -166,9 +137,7 @@ const Resources4 = () => {
             <h6>AEO</h6>
             <ul class="jobs">
               <li>
-                <a href="http://www.aeo.or.kr" target="_blank">
-                  한국AEO진흥협회
-                </a>
+                <a href="http://www.aeo.or.kr">한국AEO진흥협회</a>
               </li>
             </ul>
           </div>
@@ -176,9 +145,7 @@ const Resources4 = () => {
             <h6>FTA</h6>
             <ul class="jobs">
               <li>
-                <a href="https://www.fta.go.kr/main/" target="_blank">
-                  FTA 종합지원 포털
-                </a>
+                <a href="https://www.fta.go.kr/main/">FTA 종합지원 포털</a>
               </li>
             </ul>
           </div>
@@ -190,19 +157,13 @@ const Resources4 = () => {
             <h6>법률</h6>
             <ul class="jobs">
               <li>
-                <a href="http://gwanbo.mois.go.kr" target="_blank">
-                  대한민국전자관보
-                </a>
+                <a href="http://gwanbo.mois.go.kr">대한민국전자관보</a>
               </li>
               <li>
-                <a href="http://www.moleg.go.kr" target="_blank">
-                  법제처
-                </a>
+                <a href="http://www.moleg.go.kr">법제처</a>
               </li>
               <li>
-                <a href="http://www.law.go.kr" target="_blank">
-                  법제처 국가법령정보센터
-                </a>
+                <a href="http://www.law.go.kr">법제처 국가법령정보센터</a>
               </li>
             </ul>
           </div>
@@ -210,19 +171,13 @@ const Resources4 = () => {
             <h6>정보</h6>
             <ul class="jobs">
               <li>
-                <a href="http://taxtimes.co.kr" target="_blank">
-                  세정신문
-                </a>
+                <a href="http://taxtimes.co.kr">세정신문</a>
               </li>
               <li>
-                <a href="http://www.joseilbo.com" target="_blank">
-                  조세일보
-                </a>
+                <a href="http://www.joseilbo.com">조세일보</a>
               </li>
               <li>
-                <a href="http://www.clhs.co.kr" target="_blank">
-                  씨엘HS
-                </a>
+                <a href="http://www.clhs.co.kr">씨엘HS</a>
               </li>
             </ul>
           </div>
@@ -234,24 +189,16 @@ const Resources4 = () => {
             <h6>국제기관</h6>
             <ul class="jobs">
               <li>
-                <a href="http://www.wcoomd.org" target="_blank">
-                  세계관세기구
-                </a>
+                <a href="http://www.wcoomd.org">세계관세기구</a>
               </li>
               <li>
-                <a href="http://www.tiaca.org" target="_blank">
-                  국제항공화물협회
-                </a>
+                <a href="http://www.tiaca.org">국제항공화물협회</a>
               </li>
               <li>
-                <a href="http://www.icao.int" target="_blank">
-                  국제민간항공기구 ICAO
-                </a>
+                <a href="http://www.icao.int">국제민간항공기구 ICAO</a>
               </li>
               <li>
-                <a href="http://www.wto.org" target="_blank">
-                  세계무역기구
-                </a>
+                <a href="http://www.wto.org">세계무역기구</a>
               </li>
             </ul>
           </div>

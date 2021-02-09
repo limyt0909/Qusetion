@@ -9,6 +9,9 @@ import Homes2 from '../Homes/Homes2';
 import Homes3 from '../Homes/Homes3';
 import Homes4 from '../Homes/Homes4';
 
+import Table from '../Post/Table';
+import Table2 from '../Post/Table2';
+
 const Home = () => {
   return (
     <div>
@@ -17,6 +20,8 @@ const Home = () => {
       <Homes3 />
       <Homes2 />
       <Homes4 />
+      <Table />
+      <Table2 />
       <Bottom />
     </div>
   );
