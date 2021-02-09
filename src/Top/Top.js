@@ -102,10 +102,12 @@ const Top = () => {
                 id="collasible-nav-dropdown"
               >
                 <NavDropdown.Item href="/Education">Education</NavDropdown.Item>
-                <NavDropdown.Item href="/Education2">
+
+                <NavDropdown.Item href="/Education2" disabled>
                   교육 일정 관리
                 </NavDropdown.Item>
-                <NavDropdown.Item href="/Education3">
+
+                <NavDropdown.Item href="/Education3" disabled>
                   A-One소식
                 </NavDropdown.Item>
                 <NavDropdown.Divider />
@@ -118,21 +120,21 @@ const Top = () => {
               </NavDropdown>
               　　
               <NavDropdown title="Resources" id="collasible-nav-dropdown">
-                <NavDropdown.Item href="/Resources">
+                <NavDropdown.Item href="/Resources" disabled>
                   관세무역 뉴스
                 </NavDropdown.Item>
-                <NavDropdown.Item href="/Resources2">
+                <NavDropdown.Item href="/Resources2" disabled>
                   관세무역 자료실
                 </NavDropdown.Item>
                 <NavDropdown.Divider />
-                <NavDropdown.Item href="/Resources3">
-                  A-one Webzone
+                <NavDropdown.Item href="/Resources3" disabled>
+                  A-one Webzine
                 </NavDropdown.Item>
                 <NavDropdown.Item href="/Resources4">
                   유관기관 안내
                 </NavDropdown.Item>
                 <NavDropdown.Divider />
-                <NavDropdown.Item href="/Resources5">
+                <NavDropdown.Item href="/Resources5" disabled>
                   정운기 칼럼
                 </NavDropdown.Item>
               </NavDropdown>
