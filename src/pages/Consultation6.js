@@ -64,11 +64,11 @@ const Consultation6 = () => {
               </Card>
               <Card>
                 <Card.Header>
-                  <Accordion.Toggle as={Button} variant="link" eventKey="0">
+                  <Accordion.Toggle as={Button} variant="link" eventKey="1">
                     02. 업무 프로세스 관리
                   </Accordion.Toggle>
                 </Card.Header>
-                <Accordion.Collapse eventKey="0">
+                <Accordion.Collapse eventKey="1">
                   <Card.Body>
                     - 적법하고 효율적인 수출입 업무 프로세스 구축
                     <br />
@@ -81,11 +81,11 @@ const Consultation6 = () => {
               </Card>
               <Card>
                 <Card.Header>
-                  <Accordion.Toggle as={Button} variant="link" eventKey="1">
+                  <Accordion.Toggle as={Button} variant="link" eventKey="2">
                     03. 전문 정보 제공
                   </Accordion.Toggle>
                 </Card.Header>
-                <Accordion.Collapse eventKey="1">
+                <Accordion.Collapse eventKey="2">
                   <Card.Body>
                     - 관세관련 자문
                     <br />

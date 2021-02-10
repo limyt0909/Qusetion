@@ -100,11 +100,11 @@ const Aboutaone4 = () => {
           </Card>
           <Card>
             <Card.Header>
-              <Accordion.Toggle as={Button} variant="link" eventKey="0">
+              <Accordion.Toggle as={Button} variant="link" eventKey="1">
                 고객만족 고객지향
               </Accordion.Toggle>
             </Card.Header>
-            <Accordion.Collapse eventKey="0">
+            <Accordion.Collapse eventKey="1">
               <Card.Body>
                 우리는 고객만족을 최우선으로 고객의 입장에서 생각하고 행동하며,
                 고객의 의견을 존중하여 만족과 감동을 주는 서비스를 제공하기 위해
@@ -115,11 +115,11 @@ const Aboutaone4 = () => {
 
           <Card>
             <Card.Header>
-              <Accordion.Toggle as={Button} variant="link" eventKey="1">
+              <Accordion.Toggle as={Button} variant="link" eventKey="2">
                 공정한 거래
               </Accordion.Toggle>
             </Card.Header>
-            <Accordion.Collapse eventKey="1">
+            <Accordion.Collapse eventKey="2">
               <Card.Body>
                 - 부당한 방법으로 경쟁사의 주요정보 및 영업비밀을 취득하거나,
                 경쟁사의 이익을 침해하는 일은 하지 않으며, 경쟁사에 대한 비방을
@@ -159,11 +159,11 @@ const Aboutaone4 = () => {
           </Card>
           <Card>
             <Card.Header>
-              <Accordion.Toggle as={Button} variant="link" eventKey="1">
+              <Accordion.Toggle as={Button} variant="link" eventKey="3">
                 회사의 특성
               </Accordion.Toggle>
             </Card.Header>
-            <Accordion.Collapse eventKey="1">
+            <Accordion.Collapse eventKey="3">
               <Card.Body>
                 - 무역 및 물류컨설팅, 물품통관, AEO컨설팅, 통관 후 사후심사와
                 행정쟁송을 일괄 처리할 수 있는 실질적인 One Stop Service
