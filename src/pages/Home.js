@@ -13,7 +13,6 @@ const Home = () => {
     <div>
       <Top />
       <Slideshow />
-
       <Homes3 />
       <Homes2 />
       <Homes4 />
